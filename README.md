@@ -57,7 +57,7 @@ I wish I could hold on.
 |Combinations Sum||Medium|
 |Combinations Sum II||Medium|
 |Letter Phone Number||Medium|
-|Paliandrome Partitioning||Medium|
+|Palindrome Partitioning||Medium|
 |Permutations||Medium|
 |Permutations II||Medium|
 |SubSets||Medium|
@@ -79,10 +79,10 @@ I wish I could hold on.
 |Minimum Sorted Rotated Array||Medium|
 |Search in a Rotated Sorted Array||Medium|
 |Search for a Range||Medium|
-|Sqrt(x|||Easy|
+|Sqrt(x)|||Easy|
 |Search Insert Position||Easy|
 |Median of Two Sorted Arrays||Hard|
-|Pow(x, n|||Medium|
+|Pow(x, n)|||Medium|
 |Find Peak Element||Medium|
 |Target Sum||Medium|
 |H-Index II||Medium|
@@ -102,7 +102,7 @@ I wish I could hold on.
 
 |Problem|Code|Difficulty|
 | --- | --- | --- |
-|Binaray Tree Level Order Traversal||Medium|
+|Binary Tree Level Order Traversal||Medium|
 |Word Ladder||Medium|
 |Word Ladder II||Hard|
 |Walls and Gates||Medium|
@@ -148,7 +148,7 @@ I wish I could hold on.
 |Serialize Deserialize Binary Tree||Hard|
 |Design Twitter||Medium|
 |Tic-Tac-Toe||Medium|
-|Implement Trie (Prefix Tree|||Medium|
+|Implement Trie (Prefix Tree)|||Medium|
 |Binary Search Tree Iterator||Medium|
 |Design Search Autocomplete System||Hard|
 |Design Excel Sum Formula||Hard|
@@ -240,7 +240,7 @@ I wish I could hold on.
 |Group Anagrams||Medium|
 |Kdiff Pairs In a Array||Easy|
 |Sort Character by Frequency||Medium|
-|0001 Two Sum|[Java](.\LeetCode\Java\0001-Two-Sum\src\Solution.java)|Easy|
+|0001 Two Sum|[Java](./LeetCode/Java/0001-Two-Sum/src/Solution.java)|Easy|
 |Valid Anagram||Easy|
 |Maximum Size Subarray Sum Equals k||Medium|
 |Contiguous Array||Medium|
