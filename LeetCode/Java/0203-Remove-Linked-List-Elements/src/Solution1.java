@@ -12,9 +12,13 @@ public class Solution1 {
             delNode.next = null;
         }
 
+        if(head == null) {
+            return null;
+        }
         //中间ListNode.val = val情况
         ListNode prev = head;
-        while(prev != null && prev.next != null) {
+        //while(prev != null && prev.next != null) {
+        while(prev.next != null) {
             if(prev.next.val == val) {
                 ListNode delNode = prev.next;
                 prev.next = prev.next.next;
