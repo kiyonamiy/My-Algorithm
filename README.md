@@ -8,404 +8,405 @@ I wish I could hold on.
 
 |Problem|Code|Difficulty|
 | --- | --- | --- |
-|Pascals Traiangle II||Easy|
-|Product Of Array Except Self||Medium|
-|Rotate Matrix||Medium|
-|Set Matrix Zeroes||Medium|
-|Third Maximum Number||Easy|
-|Two Sum||Easy|
-|TwoSum II||Easy|
-|Can Place Flowers||Easy|
-|Merge Intervals||Medium|
-|First Missing Positive||Hard|
-|Fruit Into Baskets||Medium|
-|MaxProduct Of Three Numbers||Easy|
-|Missing Number||Easy|
-|Merge Sorted Array||Easy|
-|Rotate Array||Easy|
-|Sort Colors||Medium|
-|Battleships in a Board||Medium|
-|Find the Celebrity||Medium|
-|Meeting Rooms||Easy|
-|Longest Continuous Increasing Subsequence||Easy|
-|Sparse Matrix Multiplication||Medium|
-|Read N Characters Given Read4||Easy|
-|Maximum Swap||Medium|
-|H-Index||Medium|
-|Insert Interval||Hard|
-|Increasing Triplet Subsequence||Medium|
-|K Empty Slots||Hard|
-|Subarray Sum Equals K||Medium|
-|Pour Water||Medium|
-|Relative Ranks||Easy|
-|Next Greater Element I||Easy|
-|Largest Number At Least Twice of Others||Easy|
+|Pascals Traiangle II||<font color=green>Easy</font>|
+|Product Of Array Except Self||<font color=orange>Medium</font>|
+|Rotate Matrix||<font color=orange>Medium</font>|
+|Set Matrix Zeroes||<font color=orange>Medium</font>|
+|Third Maximum Number||<font color=green>Easy</font>|
+|Two Sum||<font color=green>Easy</font>|
+|TwoSum II||<font color=green>Easy</font>|
+|Can Place Flowers||<font color=green>Easy</font>|
+|Merge Intervals||<font color=orange>Medium</font>|
+|First Missing Positive||<font color=red>Hard</font>|
+|Fruit Into Baskets||<font color=orange>Medium</font>|
+|MaxProduct Of Three Numbers||<font color=green>Easy</font>|
+|Missing Number||<font color=green>Easy</font>|
+|Merge Sorted Array||<font color=green>Easy</font>|
+|Rotate Array||<font color=green>Easy</font>|
+|Sort Colors||<font color=orange>Medium</font>|
+|Battleships in a Board||<font color=orange>Medium</font>|
+|Find the Celebrity||<font color=orange>Medium</font>|
+|Meeting Rooms||<font color=green>Easy</font>|
+|Longest Continuous Increasing Subsequence||<font color=green>Easy</font>|
+|Sparse Matrix Multiplication||<font color=orange>Medium</font>|
+|Read N Characters Given Read4||<font color=green>Easy</font>|
+|Maximum Swap||<font color=orange>Medium</font>|
+|H-Index||<font color=orange>Medium</font>|
+|Insert Interval||<font color=red>Hard</font>|
+|Increasing Triplet Subsequence||<font color=orange>Medium</font>|
+|K Empty Slots||<font color=red>Hard</font>|
+|Subarray Sum Equals K||<font color=orange>Medium</font>|
+|Pour Water||<font color=orange>Medium</font>|
+|Relative Ranks||<font color=green>Easy</font>|
+|Next Greater Element I||<font color=green>Easy</font>|
+|Largest Number At Least Twice of Others||<font color=green>Easy</font>|
 |Minimum Moves to Equal Array Elements II||Median|
-|Image Smoother||Easy|
-|Minimum Index Sum of Two Lists||Easy|
-|Card Flipping Game||Medium|
-|Employee Free Time||Hard|
-|Best Meeting Point||Hard|
-|My Calendar III||Hard|
+|Image Smoother||<font color=green>Easy</font>|
+|Minimum Index Sum of Two Lists||<font color=green>Easy</font>|
+|Card Flipping Game||<font color=orange>Medium</font>|
+|Employee Free Time||<font color=red>Hard</font>|
+|Best Meeting Point||<font color=red>Hard</font>|
+|My Calendar III||<font color=red>Hard</font>|
 
 
 ### **Backtracking**
 
 |Problem|Code|Difficulty|
 | --- | --- | --- |
-|Combinations||Medium|
-|Combinations Sum||Medium|
-|Combinations Sum II||Medium|
-|Letter Phone Number||Medium|
-|Palindrome Partitioning||Medium|
-|Permutations||Medium|
-|Permutations II||Medium|
-|SubSets||Medium|
-|SubSet II||Medium|
-|Word Search||Medium|
-|Word Search II||Hard|
-|Generate Parentheses||Medium|
-|Remove Invalid Parentheses||Hard|
-|Regular Expression Matching||Hard|
-|Expression Add Operators||Hard|
-|Wildcard Matching||Hard|
-|Letter Case Permutation||Easy|
+|Combinations||<font color=orange>Medium</font>|
+|Combinations Sum||<font color=orange>Medium</font>|
+|Combinations Sum II||<font color=orange>Medium</font>|
+|Letter Phone Number||<font color=orange>Medium</font>|
+|Palindrome Partitioning||<font color=orange>Medium</font>|
+|Permutations||<font color=orange>Medium</font>|
+|Permutations II||<font color=orange>Medium</font>|
+|SubSets||<font color=orange>Medium</font>|
+|SubSet II||<font color=orange>Medium</font>|
+|Word Search||<font color=orange>Medium</font>|
+|Word Search II||<font color=red>Hard</font>|
+|Generate Parentheses||<font color=orange>Medium</font>|
+|Remove Invalid Parentheses||<font color=red>Hard</font>|
+|Regular Expression Matching||<font color=red>Hard</font>|
+|Expression Add Operators||<font color=red>Hard</font>|
+|Wildcard Matching||<font color=red>Hard</font>|
+|Letter Case Permutation||<font color=green>Easy</font>|
 
 
 ### **Binary Search**
 
 |Problem|Code|Difficulty|
 | --- | --- | --- |
-|Minimum Sorted Rotated Array||Medium|
-|Search in a Rotated Sorted Array||Medium|
-|Search for a Range||Medium|
-|Sqrt(x)|||Easy|
-|Search Insert Position||Easy|
-|Median of Two Sorted Arrays||Hard|
-|Pow(x, n)|||Medium|
-|Find Peak Element||Medium|
-|Target Sum||Medium|
-|H-Index II||Medium|
+|Minimum Sorted Rotated Array||<font color=orange>Medium</font>|
+|Search in a Rotated Sorted Array||<font color=orange>Medium</font>|
+|Search for a Range||<font color=orange>Medium</font>|
+|Sqrt(x)|||<font color=green>Easy</font>|
+|Search Insert Position||<font color=green>Easy</font>|
+|Median of Two Sorted Arrays||<font color=red>Hard</font>|
+|Pow(x, n)|||<font color=orange>Medium</font>|
+|Find Peak Element||<font color=orange>Medium</font>|
+|Target Sum||<font color=orange>Medium</font>|
+|H-Index II||<font color=orange>Medium</font>|
 
 
 ### **Bit Manipulation**
 
 |Problem|Code|Difficulty|
 | --- | --- | --- |
-|Gray Code||Medium|
-|Hamming Distance||Easy|
-|Total Hamming Distance||Medium|
-|Divide Two Integers||Medium|
+|Gray Code||<font color=orange>Medium</font>|
+|Hamming Distance||<font color=green>Easy</font>|
+|Total Hamming Distance||<font color=orange>Medium</font>|
+|Divide Two Integers||<font color=orange>Medium</font>|
 
 
 ### **Breadth First Search**
 
 |Problem|Code|Difficulty|
 | --- | --- | --- |
-|Binary Tree Level Order Traversal||Medium|
-|Word Ladder||Medium|
-|Word Ladder II||Hard|
-|Walls and Gates||Medium|
-|Open the lock||Medium|
-|Cut Off Trees for Golf Event||Hard|
-|Race Car||Hard|
-|Bus Routes||Hard|
-|Sliding Puzzle||Hard|
-|Matrix||Medium|
+|Binary Tree Level Order Traversal||<font color=orange>Medium</font>|
+|Word Ladder||<font color=orange>Medium</font>|
+|Word Ladder II||<font color=red>Hard</font>|
+|Walls and Gates||<font color=orange>Medium</font>|
+|Open the lock||<font color=orange>Medium</font>|
+|Cut Off Trees for Golf Event||<font color=red>Hard</font>|
+|Race Car||<font color=red>Hard</font>|
+|Bus Routes||<font color=red>Hard</font>|
+|Sliding Puzzle||<font color=red>Hard</font>|
+|Matrix||<font color=orange>Medium</font>|
 
 
 ### **Depth First Search**
 |Problem|Code|Difficulty|
 | --- | --- | --- |
-|Minesweeper||Medium|
-|Movie Recommend||Medium|
-|Number Of Islands||Medium|
-|Course Schedule||Medium|
-|Course Schedule II||Medium|
-|Alien Dictionary||Hard|
-|Graph Valid Tree||Medium|
-|Longest Consecutive Sequence||Hard|
-|Accounts Merge||Medium|
-|CloneGraph||Medium|
-|Island Perimeter||Easy|
-|Number of Distinct Islands||Medium|
-|Number of Distinct Islands II||Hard|
-|Smallest Rectangle Enclosing Black Pixels||Hard|
-|Bricks Falling When Hit||Hard|
-|Robot Room Cleaner||Hard|
-|Cracking the Safe||Hard|
+|Minesweeper||<font color=orange>Medium</font>|
+|Movie Recommend||<font color=orange>Medium</font>|
+|Number Of Islands||<font color=orange>Medium</font>|
+|Course Schedule||<font color=orange>Medium</font>|
+|Course Schedule II||<font color=orange>Medium</font>|
+|Alien Dictionary||<font color=red>Hard</font>|
+|Graph Valid Tree||<font color=orange>Medium</font>|
+|Longest Consecutive Sequence||<font color=red>Hard</font>|
+|Accounts Merge||<font color=orange>Medium</font>|
+|CloneGraph||<font color=orange>Medium</font>|
+|Island Perimeter||<font color=green>Easy</font>|
+|Number of Distinct Islands||<font color=orange>Medium</font>|
+|Number of Distinct Islands II||<font color=red>Hard</font>|
+|Smallest Rectangle Enclosing Black Pixels||<font color=red>Hard</font>|
+|Bricks Falling When Hit||<font color=red>Hard</font>|
+|Robot Room Cleaner||<font color=red>Hard</font>|
+|Cracking the Safe||<font color=red>Hard</font>|
 
 
 ### **Design**
 
 |Problem|Code|Difficulty|
 | --- | --- | --- |
-|Copy List With Random Pointer||Medium|
-|Encode and Decode Tiny URL||Medium|
-|LFU Cache||Hard|
-|LRU Cache||Hard|
-|Insert Delete Get Random||Medium|
-|Serialize Deserialize Binary Tree||Hard|
-|Design Twitter||Medium|
-|Tic-Tac-Toe||Medium|
-|Implement Trie (Prefix Tree)|||Medium|
-|Binary Search Tree Iterator||Medium|
-|Design Search Autocomplete System||Hard|
-|Design Excel Sum Formula||Hard|
-|Flatten Nested List Iterator||Medium|
-|Add and Search Word - Data structure design||Medium|
-|Prefix and Suffix Search||Hard|
-|Insert Delete GetRandom O(1) - Duplicates allowed||Hard|
+|Copy List With Random Pointer||<font color=orange>Medium</font>|
+|Encode and Decode Tiny URL||<font color=orange>Medium</font>|
+|LFU Cache||<font color=red>Hard</font>|
+|LRU Cache||<font color=red>Hard</font>|
+|Insert Delete Get Random||<font color=orange>Medium</font>|
+|Serialize Deserialize Binary Tree||<font color=red>Hard</font>|
+|Design Twitter||<font color=orange>Medium</font>|
+|Tic-Tac-Toe||<font color=orange>Medium</font>|
+|Implement Trie (Prefix Tree)|||<font color=orange>Medium</font>|
+|Binary Search Tree Iterator||<font color=orange>Medium</font>|
+|Design Search Autocomplete System||<font color=red>Hard</font>|
+|Design Excel Sum Formula||<font color=red>Hard</font>|
+|Flatten Nested List Iterator||<font color=orange>Medium</font>|
+|Add and Search Word - Data structure design||<font color=orange>Medium</font>|
+|Prefix and Suffix Search||<font color=red>Hard</font>|
+|Insert Delete GetRandom O(1) - Duplicates allowed||<font color=red>Hard</font>|
 
 
 ### **Divide and Conquer**
 
 |Problem|Code|Difficulty|
 | --- | --- | --- |
-|Kth Largest Element In a Array||Medium|
-|Reverse Pairs||Hard|
-|Search in a 2D Matrix||Medium|
+|Kth Largest Element In a Array||<font color=orange>Medium</font>|
+|Reverse Pairs||<font color=red>Hard</font>|
+|Search in a 2D Matrix||<font color=orange>Medium</font>|
 
 
 ### **Dynamic Programming**
 
 |Problem|Code|Difficulty|
 | --- | --- | --- |
-|Best Time To Buy and Sell Stocks||Easy|
-|Best Time to Buy and Sell Stock III||Hard|
-|Best Time to Buy and Sell Stock with Transaction Fee||Medium|
-|Climbing Stairs||Easy|
-|Coin Change||Medium|
-|Coin Change 2||Medium|
-|Decode Ways||Medium|
-|House Robber||Easy|
-|House Robber II||Medium|
-|Longest Increasing Subsequence||Medium|
-|Longest Paliandromic Substring||Medium|
-|Longest Palindromic Subsequence||Medium|
-|Maximum Product Subarray||Medium|
-|Min Cost Climbing Stairs||Easy|
-|Palindrome Partitioning II||Hard|
-|UniqueBinary Search Trees||Medium|
-|Unique Binary Search Trees II||Medium|
-|WordBreak||Medium|
-|WordBreak II||Hard|
-|Concatenated Words||Hard|
-|Can I Win||Medium|
-|Maximum Subarray||Easy|
-|Dungeon Game||Hard|
-|2 Keys Keyboard||Medium|
-|Maximum Sum of 3 Non-Overlapping Subarrays||Hard|
-|Maximal Square||Medium|
-|Continuous Subarray Sum||Medium|
-|Decode Ways II||Hard|
-|Palindromic Substrings||Medium|
-|Number of Longest Increasing Subsequence||Medium|
-|Combination Sum IV||Medium|
-|Paint House II||Hard|
-|Split Array Largest Sum||Hard|
-|Number Of Corner Rectangles||Medium|
-|Burst Balloons||Hard|
-|Largest Plus Sign||Medium|
-|Palindrome Pairs||Hard|
-|Cherry Pickup||Hard|
-|Knight Probability in Chessboard||Medium|
-|Largest Sum of Averages||Medium|
-|Minimum Number of Refueling Stops||Hard|
-|Cat and Mouse||Hard|
-|Stone Game||Medium|
-|Odd Even Jump||Hard|
+|Best Time To Buy and Sell Stocks||<font color=green>Easy</font>|
+|Best Time to Buy and Sell Stock III||<font color=red>Hard</font>|
+|Best Time to Buy and Sell Stock with Transaction Fee||<font color=orange>Medium</font>|
+|Climbing Stairs||<font color=green>Easy</font>|
+|Coin Change||<font color=orange>Medium</font>|
+|Coin Change 2||<font color=orange>Medium</font>|
+|Decode Ways||<font color=orange>Medium</font>|
+|House Robber||<font color=green>Easy</font>|
+|House Robber II||<font color=orange>Medium</font>|
+|Longest Increasing Subsequence||<font color=orange>Medium</font>|
+|Longest Paliandromic Substring||<font color=orange>Medium</font>|
+|Longest Palindromic Subsequence||<font color=orange>Medium</font>|
+|Maximum Product Subarray||<font color=orange>Medium</font>|
+|Min Cost Climbing Stairs||<font color=green>Easy</font>|
+|Palindrome Partitioning II||<font color=red>Hard</font>|
+|UniqueBinary Search Trees||<font color=orange>Medium</font>|
+|Unique Binary Search Trees II||<font color=orange>Medium</font>|
+|WordBreak||<font color=orange>Medium</font>|
+|WordBreak II||<font color=red>Hard</font>|
+|Concatenated Words||<font color=red>Hard</font>|
+|Can I Win||<font color=orange>Medium</font>|
+|Maximum Subarray||<font color=green>Easy</font>|
+|Dungeon Game||<font color=red>Hard</font>|
+|2 Keys Keyboard||<font color=orange>Medium</font>|
+|Maximum Sum of 3 Non-Overlapping Subarrays||<font color=red>Hard</font>|
+|Maximal Square||<font color=orange>Medium</font>|
+|Continuous Subarray Sum||<font color=orange>Medium</font>|
+|Decode Ways II||<font color=red>Hard</font>|
+|Palindromic Substrings||<font color=orange>Medium</font>|
+|Number of Longest Increasing Subsequence||<font color=orange>Medium</font>|
+|Combination Sum IV||<font color=orange>Medium</font>|
+|Paint House II||<font color=red>Hard</font>|
+|Split Array Largest Sum||<font color=red>Hard</font>|
+|Number Of Corner Rectangles||<font color=orange>Medium</font>|
+|Burst Balloons||<font color=red>Hard</font>|
+|Largest Plus Sign||<font color=orange>Medium</font>|
+|Palindrome Pairs||<font color=red>Hard</font>|
+|Cherry Pickup||<font color=red>Hard</font>|
+|Knight Probability in Chessboard||<font color=orange>Medium</font>|
+|Largest Sum of Averages||<font color=orange>Medium</font>|
+|Minimum Number of Refueling Stops||<font color=red>Hard</font>|
+|Cat and Mouse||<font color=red>Hard</font>|
+|Stone Game||<font color=orange>Medium</font>|
+|Odd Even Jump||<font color=red>Hard</font>|
 
 
 ### **Greedy**
 
 |Problem|Code|Difficulty|
 | --- | --- | --- |
-|Jump Game||Medium|
-|Jump Game II||Hard|
-|Course Schedule III||Medium|
-|GasStation||Medium|
-|Non-Overlapping Intervals||Medium|
-|Minimum Number of Arrows to Burst Balloons||Medium|
-|Queue Reconstruction By Height||Medium|
-|Task Scheduler||Medium|
-|Maximum Length of Pair Chain||Medium|
+|Jump Game||<font color=orange>Medium</font>|
+|Jump Game II||<font color=red>Hard</font>|
+|Course Schedule III||<font color=orange>Medium</font>|
+|GasStation||<font color=orange>Medium</font>|
+|Non-Overlapping Intervals||<font color=orange>Medium</font>|
+|Minimum Number of Arrows to Burst Balloons||<font color=orange>Medium</font>|
+|Queue Reconstruction By Height||<font color=orange>Medium</font>|
+|Task Scheduler||<font color=orange>Medium</font>|
+|Maximum Length of Pair Chain||<font color=orange>Medium</font>|
 
 
 ### **Hashing**
 
 |Problem|Code|Difficulty|
 | --- | --- | --- |
-|Anagrams||Medium|
-|Group Anagrams||Medium|
-|Kdiff Pairs In a Array||Easy|
-|Sort Character by Frequency||Medium|
-|0001 Two Sum|[Java](./LeetCode/Java/0001-Two-Sum/src/Solution.java)|Easy|
-|Valid Anagram||Easy|
-|Maximum Size Subarray Sum Equals k||Medium|
-|Contiguous Array||Medium|
-|Brick Wall||Medium|
-|Partition Labels||Medium|
-|Custom Sort String||Medium|
-|Short Encoding of Words||Medium|
-|Substring with Concatenation of All Words||Hard|
+|Anagrams||<font color=orange>Medium</font>|
+|Group Anagrams||<font color=orange>Medium</font>|
+|Kdiff Pairs In a Array||<font color=green>Easy</font>|
+|Sort Character by Frequency||<font color=orange>Medium</font>|
+|0001-Two-Sum|[Java](./LeetCode/Java/0001-Two-Sum/src)|<font color=green>Easy</font>|
+|Valid Anagram||<font color=green>Easy</font>|
+|Maximum Size Subarray Sum Equals k||<font color=orange>Medium</font>|
+|Contiguous Array||<font color=orange>Medium</font>|
+|Brick Wall||<font color=orange>Medium</font>|
+|Partition Labels||<font color=orange>Medium</font>|
+|Custom Sort String||<font color=orange>Medium</font>|
+|Short Encoding of Words||<font color=orange>Medium</font>|
+|Substring with Concatenation of All Words||<font color=red>Hard</font>|
 
 
 ### **Heap**
 
 |Problem|Code|Difficulty|
 | --- | --- | --- |
-|Sliding Window Maximum||Hard|
-|The Skyline Problem||Hard|
-|Meeting Rooms II||Medium|
-|Top K Frequent Words||Medium|
-|Candy||Hard|
+|Sliding Window Maximum||<font color=red>Hard</font>|
+|The Skyline Problem||<font color=red>Hard</font>|
+|Meeting Rooms II||<font color=orange>Medium</font>|
+|Top K Frequent Words||<font color=orange>Medium</font>|
+|Candy||<font color=red>Hard</font>|
 
 
 ### **Linked List**
 
 |Problem|Code|Difficulty|
 | --- | --- | --- |
-|Intersection of two Linked-Lists||Easy|
-|Linked List Cycle||Easy|
-|Merge K Sorted Lists||Hard|
-|Merge Two Sorted List||Easy|
-|Paliandrome List||Easy|
-|Reverse Linked List||Easy|
-|Delete Node in a Linked List||Easy|
-|Reverse Nodes in k-Group||Hard|
-|Swap Nodes in Pairs||Medium|
-|Middle of Linked List||Easy|
+|0203-Remove-Linked-List-Elements|[Java](./LeetCode/Java/0203-Remove-Linked-List-Elements/src)|<font color=green>Easy</font>|
+|Intersection of two Linked-Lists||<font color=green>Easy</font>|
+|Linked List Cycle||<font color=green>Easy</font>|
+|Merge K Sorted Lists||<font color=red>Hard</font>|
+|Merge Two Sorted List||<font color=green>Easy</font>|
+|Paliandrome List||<font color=green>Easy</font>|
+|Reverse Linked List||<font color=green>Easy</font>|
+|Delete Node in a Linked List||<font color=green>Easy</font>|
+|Reverse Nodes in k-Group||<font color=red>Hard</font>|
+|Swap Nodes in Pairs||<font color=orange>Medium</font>|
+|Middle of Linked List||<font color=green>Easy</font>|
 
 
 ### **Math**
 |Problem|Code|Difficulty|
 | --- | --- | --- |
-|Add Two Numbers||Medium|
-|Count Primes||Easy|
-|Rotate Function||Medium|
-|Water and Jug Problem||Medium|
-|Add Digits||Easy|
-|Excel Sheet Column Title||Easy|
-|Roman to Integer||Easy|
-|Bulb Switcher II||Medium|
-|Global and Local Inversions||Medium|
-|Solve the Equation||Medium|
-|Couples Holding Hands||Hard|
-|Reaching Points||Hard|
-|Nth Magical Number||Hard|
+|Add Two Numbers||<font color=orange>Medium</font>|
+|Count Primes||<font color=green>Easy</font>|
+|Rotate Function||<font color=orange>Medium</font>|
+|Water and Jug Problem||<font color=orange>Medium</font>|
+|Add Digits||<font color=green>Easy</font>|
+|Excel Sheet Column Title||<font color=green>Easy</font>|
+|Roman to Integer||<font color=green>Easy</font>|
+|Bulb Switcher II||<font color=orange>Medium</font>|
+|Global and Local Inversions||<font color=orange>Medium</font>|
+|Solve the Equation||<font color=orange>Medium</font>|
+|Couples Holding Hands||<font color=red>Hard</font>|
+|Reaching Points||<font color=red>Hard</font>|
+|Nth Magical Number||<font color=red>Hard</font>|
 
 
 ### **Reservoir Sampling**
 |Problem|Code|Difficulty|
 | --- | --- | --- |
-|Random Pick Index||Medium|
+|Random Pick Index||<font color=orange>Medium</font>|
 
 
 ### **Stack**
 |Problem|Code|Difficulty|
 | --- | --- | --- |
-|Min Stack||Easy|
-|Valid Parentheses||Easy|
-|Largest Rectangle In Histogram||Hard|
-|Implement Queue using Stacks||Easy|
-|Maximal Rectangle||Hard|
-|Exclusive Time of Functions||Medium|
-|Basic Calculator||Hard|
-|Decode String||Medium|
-|Longest Valid Parentheses||Hard|
+|Min Stack||<font color=green>Easy</font>|
+|Valid Parentheses||<font color=green>Easy</font>|
+|Largest Rectangle In Histogram||<font color=red>Hard</font>|
+|Implement Queue using Stacks||<font color=green>Easy</font>|
+|Maximal Rectangle||<font color=red>Hard</font>|
+|Exclusive Time of Functions||<font color=orange>Medium</font>|
+|Basic Calculator||<font color=red>Hard</font>|
+|Decode String||<font color=orange>Medium</font>|
+|Longest Valid Parentheses||<font color=red>Hard</font>|
 
 
 ### **String**
 |Problem|Code|Difficulty|
 | --- | --- | --- |
-|First Unique Character In a String||Easy|
-|Repeated Substring Pattern||Easy|
-|Reverse Words In a String||Medium|
-|ReverseWords II||Medium|
-|String to Integer||Medium|
-|Text Justification||Hard|
-|ZigZag Conversion||Medium|
-|Implement StrStr||Easy|
-|Excel Sheet Column Number||Easy|
-|Compare Version Numbers||Easy|
-|Valid Palindrome||Easy|
-|Simplify Path||Medium|
-|Permutation in String||Medium|
-|Add Binary||Easy|
-|Valid Palindrome II||Easy|
-|One Edit Distance||Medium|
-|Count and Say||Easy|
-|Multiply Strings||Medium|
-|Longest Word in Dictionary through Deleting||Medium|
-|Isomorphic Strings||Easy|
-|String Compression||Easy|
-|Longest Common Prefix||Easy|
-|Find the Closest Palindrome||Hard|
-|Monotone Increasing Digits||Medium|
-|Shortest Palindrome||Hard|
-|Valid Word Abbreviation||Easy|
-|Longest Palindrome||Easy|
+|First Unique Character In a String||<font color=green>Easy</font>|
+|Repeated Substring Pattern||<font color=green>Easy</font>|
+|Reverse Words In a String||<font color=orange>Medium</font>|
+|ReverseWords II||<font color=orange>Medium</font>|
+|String to Integer||<font color=orange>Medium</font>|
+|Text Justification||<font color=red>Hard</font>|
+|ZigZag Conversion||<font color=orange>Medium</font>|
+|Implement StrStr||<font color=green>Easy</font>|
+|Excel Sheet Column Number||<font color=green>Easy</font>|
+|Compare Version Numbers||<font color=green>Easy</font>|
+|Valid Palindrome||<font color=green>Easy</font>|
+|Simplify Path||<font color=orange>Medium</font>|
+|Permutation in String||<font color=orange>Medium</font>|
+|Add Binary||<font color=green>Easy</font>|
+|Valid Palindrome II||<font color=green>Easy</font>|
+|One Edit Distance||<font color=orange>Medium</font>|
+|Count and Say||<font color=green>Easy</font>|
+|Multiply Strings||<font color=orange>Medium</font>|
+|Longest Word in Dictionary through Deleting||<font color=orange>Medium</font>|
+|Isomorphic Strings||<font color=green>Easy</font>|
+|String Compression||<font color=green>Easy</font>|
+|Longest Common Prefix||<font color=green>Easy</font>|
+|Find the Closest Palindrome||<font color=red>Hard</font>|
+|Monotone Increasing Digits||<font color=orange>Medium</font>|
+|Shortest Palindrome||<font color=red>Hard</font>|
+|Valid Word Abbreviation||<font color=green>Easy</font>|
+|Longest Palindrome||<font color=green>Easy</font>|
 
 
 ### **Tree**
 |Problem|Code|Difficulty|
 | --- | --- | --- |
-|Binaray Tree Right Side View||Medium|
-|Binary Tree Maximum Path Sum||Hard|
-|Boundary of Binary Tree||Medium|
-|Convert sorted array to BST||Medium|
-|Lowest Common Ancestor of a Binary Tree||Medium|
-|Lowest Common Ancestor of a BST||Easy|
-|Most Frequent Subtree Sum||Medium|
-|Path Sum III||Easy|
-|Convert Postorder and Inorder traversal to Binary Tree||Medium|
-|Convert Preorder and Inorder traversal to Binary Tree||Medium|
-|Sorted Array to BST||Medium|
-|Valid Binary Search Tree||Medium|
-|Largest BST Subtree||Medium|
-|Closest Binary Search Tree Value||Easy|
-|Inorder Successor in BST||Medium|
-|Construct String From Binary Tree||Easy|
-|Flatten Binary Tree to Linked List||Medium|
-|Populating Next Right Pointers in Each Node||Medium|
-|Populating Next Right Pointers in Each Node II||Medium|
-|Subtree of Another Tree||Easy|
-|Binary Tree Zigzag Level Order Traversal||Medium|
-|Binary Tree Inorder Traversal||Medium|
-|Symmetric Tree||Easy|
-|Maximum Binary Tree||Medium|
-|Find Bottom Left Tree Value||Medium|
-|Diameter of Binary Tree||Easy|
-|Binary Tree Paths||Easy|
-|Sum of Left Leaves||Easy|
-|Two Sum IV - Input is a BST||Easy|
-|Average of Levels in Binary Tree||Easy|
-|Convert Binary Search Tree to Sorted Doubly Linked List||Easy|
-|Same Tree||Easy|
-|Binary Tree Longest Consecutive Sequence II||Medium|
-|Minimum Absolute Difference in BST||Medium|
-|Equal Tree Partition||Medium|
-|Split BST||Medium|
-|Closest Leaf in a Binary Tree||Medium|
-|Maximum Width of Binary Tree||Medium|
-|Recover Binary Search Tree||Hard|
-|Binary Tree Postorder Traversal||Hard|
-|Serialize and Deserialize N-ary Tree||Hard|
-|Convert BST to Greater Tree||Easy|
+|Binaray Tree Right Side View||<font color=orange>Medium</font>|
+|Binary Tree Maximum Path Sum||<font color=red>Hard</font>|
+|Boundary of Binary Tree||<font color=orange>Medium</font>|
+|Convert sorted array to BST||<font color=orange>Medium</font>|
+|Lowest Common Ancestor of a Binary Tree||<font color=orange>Medium</font>|
+|Lowest Common Ancestor of a BST||<font color=green>Easy</font>|
+|Most Frequent Subtree Sum||<font color=orange>Medium</font>|
+|Path Sum III||<font color=green>Easy</font>|
+|Convert Postorder and Inorder traversal to Binary Tree||<font color=orange>Medium</font>|
+|Convert Preorder and Inorder traversal to Binary Tree||<font color=orange>Medium</font>|
+|Sorted Array to BST||<font color=orange>Medium</font>|
+|Valid Binary Search Tree||<font color=orange>Medium</font>|
+|Largest BST Subtree||<font color=orange>Medium</font>|
+|Closest Binary Search Tree Value||<font color=green>Easy</font>|
+|Inorder Successor in BST||<font color=orange>Medium</font>|
+|Construct String From Binary Tree||<font color=green>Easy</font>|
+|Flatten Binary Tree to Linked List||<font color=orange>Medium</font>|
+|Populating Next Right Pointers in Each Node||<font color=orange>Medium</font>|
+|Populating Next Right Pointers in Each Node II||<font color=orange>Medium</font>|
+|Subtree of Another Tree||<font color=green>Easy</font>|
+|Binary Tree Zigzag Level Order Traversal||<font color=orange>Medium</font>|
+|Binary Tree Inorder Traversal||<font color=orange>Medium</font>|
+|Symmetric Tree||<font color=green>Easy</font>|
+|Maximum Binary Tree||<font color=orange>Medium</font>|
+|Find Bottom Left Tree Value||<font color=orange>Medium</font>|
+|Diameter of Binary Tree||<font color=green>Easy</font>|
+|Binary Tree Paths||<font color=green>Easy</font>|
+|Sum of Left Leaves||<font color=green>Easy</font>|
+|Two Sum IV - Input is a BST||<font color=green>Easy</font>|
+|Average of Levels in Binary Tree||<font color=green>Easy</font>|
+|Convert Binary Search Tree to Sorted Doubly Linked List||<font color=green>Easy</font>|
+|Same Tree||<font color=green>Easy</font>|
+|Binary Tree Longest Consecutive Sequence II||<font color=orange>Medium</font>|
+|Minimum Absolute Difference in BST||<font color=orange>Medium</font>|
+|Equal Tree Partition||<font color=orange>Medium</font>|
+|Split BST||<font color=orange>Medium</font>|
+|Closest Leaf in a Binary Tree||<font color=orange>Medium</font>|
+|Maximum Width of Binary Tree||<font color=orange>Medium</font>|
+|Recover Binary Search Tree||<font color=red>Hard</font>|
+|Binary Tree Postorder Traversal||<font color=red>Hard</font>|
+|Serialize and Deserialize N-ary Tree||<font color=red>Hard</font>|
+|Convert BST to Greater Tree||<font color=green>Easy</font>|
 
 ### **Two Pointers**
 |Problem|Code|Difficulty|
 | --- | --- | --- |
-|Four Sum||Medium|
-|Longest Substring Witout Repeats||Medium|
-|Three Sum||Medium|
-|Trapping Rain Water||Hard|
-|3Sum Closest||Medium|
-|Move Zeroes||Easy|
-|Remove Duplicates||Easy|
-|Remove Duplicates II||Medium|
-|Minimum Size Subarray Sum||Medium|
-|Minimum Window Substring||Hard|
-|Smallest Range||Hard|
-|Subarray Product Less Than K||Medium|
+|Four Sum||<font color=orange>Medium</font>|
+|Longest Substring Witout Repeats||<font color=orange>Medium</font>|
+|Three Sum||<font color=orange>Medium</font>|
+|Trapping Rain Water||<font color=red>Hard</font>|
+|3Sum Closest||<font color=orange>Medium</font>|
+|Move Zeroes||<font color=green>Easy</font>|
+|Remove Duplicates||<font color=green>Easy</font>|
+|Remove Duplicates II||<font color=orange>Medium</font>|
+|Minimum Size Subarray Sum||<font color=orange>Medium</font>|
+|Minimum Window Substring||<font color=red>Hard</font>|
+|Smallest Range||<font color=red>Hard</font>|
+|Subarray Product Less Than K||<font color=orange>Medium</font>|
