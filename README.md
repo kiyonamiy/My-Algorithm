@@ -240,7 +240,7 @@ I wish I could hold on.
 |Group Anagrams||Medium|
 |Kdiff Pairs In a Array||Easy|
 |Sort Character by Frequency||Medium|
-|Two Sum|[Java](.\LeetCode\Java\0001-Two-Sum\src\Solution.java)|Easy|
+|0001 Two Sum|[Java](.\LeetCode\Java\0001-Two-Sum\src\Solution.java)|Easy|
 |Valid Anagram||Easy|
 |Maximum Size Subarray Sum Equals k||Medium|
 |Contiguous Array||Medium|
