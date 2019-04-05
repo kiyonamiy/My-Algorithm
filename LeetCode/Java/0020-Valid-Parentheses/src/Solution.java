@@ -13,14 +13,15 @@ public class Solution {
 
             if(ch == '(' || ch == '[' || ch == '{') {
                 stack.push(ch);
+                //因为只有括号
             } else {
                 if(stack.isEmpty()) {
                     return false;
                 }
                 char stackTop = stack.pop();
                 if(ch == ')' && stackTop != '('
-                || ch == ']' && stackTop != '['
-                || ch == '}' && stackTop != '{') {
+                        || ch == ']' && stackTop != '['
+                        || ch == '}' && stackTop != '{') {
                     return false;
                 }
             }
