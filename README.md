@@ -307,7 +307,7 @@ I wish I could hold on.
 |Problem|Code|Difficulty|
 | --- | --- | --- |
 |Min Stack||<font color=green>Easy</font>|
-|Valid Parentheses||<font color=green>Easy</font>|
+|Valid Parentheses|[Java](./LeetCode/Java/0020-Valid-Parentheses/src)|<font color=green>Easy</font>|
 |Largest Rectangle In Histogram||<font color=red>Hard</font>|
 |Implement Queue using Stacks||<font color=green>Easy</font>|
 |Maximal Rectangle||<font color=red>Hard</font>|
