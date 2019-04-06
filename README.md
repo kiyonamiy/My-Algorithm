@@ -21,7 +21,7 @@ I wish I could hold on.
 |Fruit Into Baskets|[](./LeetCode/Java/*******/src)|<font color=orange>Medium</font>|
 |MaxProduct Of Three Numbers|[](./LeetCode/Java/*******/src)|<font color=green>Easy</font>|
 |Missing Number|[](./LeetCode/Java/*******/src)|<font color=green>Easy</font>|
-|Merge Sorted Array|[](./LeetCode/Java/*******/src)|<font color=green>Easy</font>|
+|0088-Merge-Sorted-Array|[Java](./LeetCode/Java/0088-Merge-Sorted-Array/src)|<font color=green>Easy</font>|
 |Rotate Array|[](./LeetCode/Java/*******/src)|<font color=green>Easy</font>|
 |0075-Sort-Colors|[Java](./LeetCode/Java/0075-Sort-Colors/src)|<font color=orange>Medium</font>|
 |Battleships in a Board|[](./LeetCode/Java/*******/src)|<font color=orange>Medium</font>|
