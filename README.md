@@ -23,7 +23,7 @@ I wish I could hold on.
 |Missing Number|[](./LeetCode/Java/*******/src)|<font color=green>Easy</font>|
 |Merge Sorted Array|[](./LeetCode/Java/*******/src)|<font color=green>Easy</font>|
 |Rotate Array|[](./LeetCode/Java/*******/src)|<font color=green>Easy</font>|
-|Sort Colors|[](./LeetCode/Java/*******/src)|<font color=orange>Medium</font>|
+|0075-Sort-Colors|[Java](./LeetCode/Java/0075-Sort-Colors/src)|<font color=orange>Medium</font>|
 |Battleships in a Board|[](./LeetCode/Java/*******/src)|<font color=orange>Medium</font>|
 |Find the Celebrity|[](./LeetCode/Java/*******/src)|<font color=orange>Medium</font>|
 |Meeting Rooms|[](./LeetCode/Java/*******/src)|<font color=green>Easy</font>|
