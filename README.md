@@ -399,7 +399,7 @@ I wish I could hold on.
 |Problem|Code|Difficulty|
 | --- | --- | --- |
 |Four Sum|[](./LeetCode/Java/*******/src)|<font color=orange>Medium</font>|
-|Longest Substring Witout Repeats|[](./LeetCode/Java/*******/src)|<font color=orange>Medium</font>|
+|Longest Substring Without Repeats|[](./LeetCode/Java/*******/src)|<font color=orange>Medium</font>|
 |Three Sum|[](./LeetCode/Java/*******/src)|<font color=orange>Medium</font>|
 |Trapping Rain Water|[](./LeetCode/Java/*******/src)|<font color=red>Hard</font>|
 |3Sum Closest|[](./LeetCode/Java/*******/src)|<font color=orange>Medium</font>|
