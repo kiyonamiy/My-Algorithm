@@ -329,7 +329,7 @@ I wish I could hold on.
 |Implement StrStr|[](./LeetCode/Java/*******/src)|<font color=green>Easy</font>|
 |Excel Sheet Column Number|[](./LeetCode/Java/*******/src)|<font color=green>Easy</font>|
 |Compare Version Numbers|[](./LeetCode/Java/*******/src)|<font color=green>Easy</font>|
-|Valid Palindrome|[](./LeetCode/Java/*******/src)|<font color=green>Easy</font>|
+|0125-Valid-Palindrome|[Java](./LeetCode/Java/0125-Valid-Palindrome/src)|<font color=green>Easy</font>|
 |Simplify Path|[](./LeetCode/Java/*******/src)|<font color=orange>Medium</font>|
 |Permutation in String|[](./LeetCode/Java/*******/src)|<font color=orange>Medium</font>|
 |Add Binary|[](./LeetCode/Java/*******/src)|<font color=green>Easy</font>|
