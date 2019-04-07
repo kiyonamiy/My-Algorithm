@@ -320,6 +320,7 @@ I wish I could hold on.
 |Problem|Code|Difficulty|
 | --- | --- | --- |
 |0344-Reverse-String|[Java](./LeetCode/Java/0344-Reverse-String/src)|<font color=green>Easy</font>|
+|0345-Reverse-Vowels-of-a-String|[Java](./LeetCode/Java/0345-Reverse-Vowels-of-a-String/src)|<font color=green>Easy</font>|
 |First Unique Character In a String|[](./LeetCode/Java/*******/src)|<font color=green>Easy</font>|
 |Repeated Substring Pattern|[](./LeetCode/Java/*******/src)|<font color=green>Easy</font>|
 |Reverse Words In a String|[](./LeetCode/Java/*******/src)|<font color=orange>Medium</font>|
