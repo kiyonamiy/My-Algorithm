@@ -13,8 +13,8 @@ I wish I could hold on.
 |Rotate Matrix|[](./LeetCode/Java/*******/src)|<font color=orange>Medium</font>|
 |Set Matrix Zeroes|[](./LeetCode/Java/*******/src)|<font color=orange>Medium</font>|
 |Third Maximum Number|[](./LeetCode/Java/*******/src)|<font color=green>Easy</font>|
-|Two Sum|[](./LeetCode/Java/*******/src)|<font color=green>Easy</font>|
-|TwoSum II|[](./LeetCode/Java/*******/src)|<font color=green>Easy</font>|
+|0001-Two-Sum|[Java](./LeetCode/Java/0001-Two-Sum/src)|<font color=green>Easy</font>|
+|0167-Two-Sum-II---Input-array-is-sorted|[Java](./LeetCode/Java/0167-Two-Sum-II---Input-array-is-sorted/src)|<font color=green>Easy</font>|
 |Can Place Flowers|[](./LeetCode/Java/*******/src)|<font color=green>Easy</font>|
 |Merge Intervals|[](./LeetCode/Java/*******/src)|<font color=orange>Medium</font>|
 |First Missing Positive|[](./LeetCode/Java/*******/src)|<font color=red>Hard</font>|
@@ -240,7 +240,6 @@ I wish I could hold on.
 |Group Anagrams|[](./LeetCode/Java/*******/src)|<font color=orange>Medium</font>|
 |Kdiff Pairs In a Array|[](./LeetCode/Java/*******/src)|<font color=green>Easy</font>|
 |Sort Character by Frequency|[](./LeetCode/Java/*******/src)|<font color=orange>Medium</font>|
-|0001-Two-Sum|[Java](./LeetCode/Java/0001-Two-Sum/src)|<font color=green>Easy</font>|
 |Valid Anagram|[](./LeetCode/Java/*******/src)|<font color=green>Easy</font>|
 |Maximum Size Subarray Sum Equals k|[](./LeetCode/Java/*******/src)|<font color=orange>Medium</font>|
 |Contiguous Array|[](./LeetCode/Java/*******/src)|<font color=orange>Medium</font>|
