@@ -9,7 +9,8 @@ I wish I could hold on.
 |Problem|Code|Difficulty|
 | --- | --- | --- |
 |Pascals Traiangle II|[](./LeetCode/Java/*******/src)|<font color=green>Easy</font>|
-|Product Of Array Except Self|[](./LeetCode/Java/*******/src)|<font color=orange>Medium</font>|
+|0349-Intersection-of-Two-Arrays|[Java](./LeetCode/Java/0349-Intersection-of-Two-Arrays/src)|<font color=green>Easy</font>|
+|Product Of Array Except Self|[](./LeetCode/Java/*******/src)|<font color=orange>Easy</font>|
 |Rotate Matrix|[](./LeetCode/Java/*******/src)|<font color=orange>Medium</font>|
 |Set Matrix Zeroes|[](./LeetCode/Java/*******/src)|<font color=orange>Medium</font>|
 |Third Maximum Number|[](./LeetCode/Java/*******/src)|<font color=green>Easy</font>|
