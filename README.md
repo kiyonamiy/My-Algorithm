@@ -401,6 +401,7 @@ I wish I could hold on.
 ### **Two Pointers**
 |Problem|Code|Difficulty|
 | --- | --- | --- |
+|0771-Jewels-and-Stones|[Java](./LeetCode/Java/0771-Jewels-and-Stones/src)|<font color=orange>Easy</font>|
 |0011-Container-With-Most-Water|[Java](./LeetCode/Java/0011-Container-With-Most-Water/src)|<font color=orange>Medium</font>|
 |0438-Find-All-Anagrams-in-a-String|[Java](./LeetCode/Java/0438-Find-All-Anagrams-in-a-String/src)|<font color=orange>Easy</font>|
 |Four Sum|[](./LeetCode/Java/*******/src)|<font color=orange>Medium</font>|
