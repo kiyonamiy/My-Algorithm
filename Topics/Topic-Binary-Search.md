@@ -2,7 +2,7 @@
 
 |Problem|Abstract|Code|Difficulty|
 | --- | --- | --- | --- |
-|-_-||[](./LeetCode/Java/-_-/src)||
+|||[](./LeetCode/Java/-_-/src)||
 
 ## *So Easy*
 |Problem|Code|Difficulty|

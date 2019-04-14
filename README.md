@@ -8,7 +8,7 @@ I wish I could hold on.
 - [Array](Topics/Topic-Array.md)
 - [Binary-Search](Topics/Topic-Binary-Search.md)
 - [Divide-and-Conquer](Topics/Topic-Divide-and-Conquer.md)
-- [Hash-Table](Topics/Hash-Table.md)
+- [Hash-Table](Topics/Topic-Hash-Table.md)
 - [Linked-List](Topics/Topic-Linked-List.md)
 - [Set](Topics/Topic-Set.md)
 - [Sort](Topics/Topic-Sort.md)
