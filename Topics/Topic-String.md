@@ -6,4 +6,4 @@
 ## *So Easy*
 |Problem|Code|Difficulty|
 | --- | --- | --- |
-|0709-To-Lower-Case|[Java](LeetCode/Java/0709-To-Lower-Case/src)|Easy|
+|0709-To-Lower-Case|[Java](../LeetCode/Java/0709-To-Lower-Case/src)|Easy|
