@@ -2,9 +2,8 @@
 
 |Problem|Abstract|Code|Difficulty|
 | --- | --- | --- | --- |
-|||[](./LeetCode/Java/-_-/src)||
 
 ## *So Easy*
 |Problem|Code|Difficulty|
 | --- | --- | --- |
-|0167-Two-Sum-II---Input-array-is-sorted|[Java](./LeetCode/Java/0167-Two-Sum-II---Input-array-is-sorted/src)|Easy|
+|0167-Two-Sum-II---Input-array-is-sorted|[Java](LeetCode/Java/0167-Two-Sum-II---Input-array-is-sorted/src)|Easy|
