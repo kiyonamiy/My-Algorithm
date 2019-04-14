@@ -10,3 +10,4 @@
 |0771-Jewels-and-Stones|[Java](../LeetCode/Java/0771-Jewels-and-Stones/src)|Easy|
 |0242-Valid-Anagram|[Java](../LeetCode/Java/0242-Valid-Anagram/src)|Easy|
 |0290-Word-Pattern|[Java](../LeetCode/Java/0290-Word-Pattern/src)|Easy|
+|0205-Isomorphic-Strings|[Java](../LeetCode/Java/0205-Isomorphic-Strings/src)|Easy|
