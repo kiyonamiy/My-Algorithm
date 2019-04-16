@@ -3,6 +3,7 @@
 |Problem|Abstract|Code|Difficulty|
 | --- | --- | --- | --- |
 |0454-4Sum-II|（等式变化）给出四个长度相等的整形数组A, B, C, D，各取一个元素，使之和为0，共有多少种组合。|[Java](../LeetCode/Java/0454-4Sum-II/src)|Medium|
+|0049-Group-Anagrams|（算术基本定理（质数））给出一个字符串数组，将其中所有Anagrams（可以通过颠倒字符顺序产生相同结果的单词）进行分组。|[Java](../LeetCode/Java/0049-Group-Anagrams/src)|Medium|
 
 ## *So Easy*
 |Problem|Code|Difficulty|
