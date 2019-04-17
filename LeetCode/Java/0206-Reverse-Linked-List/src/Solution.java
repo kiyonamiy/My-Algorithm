@@ -8,15 +8,14 @@ public class Solution {
         if(head == null) {
             return null;
         }
-        ListNode prev = null, cur = head, next = head.next;
+        ListNode prev = null, cur = head;
         while(cur != null) {
+            ListNode next = cur.next;
+
             cur.next = prev;
 
             prev = cur;
             cur = next;
-            if(next != null) {
-                next = next.next;
-            }
         }
         return prev;
     }
