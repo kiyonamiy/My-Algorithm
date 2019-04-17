@@ -18,3 +18,4 @@
 |0205-Isomorphic-Strings|[Java](../LeetCode/Java/0205-Isomorphic-Strings/src)|Easy|
 |0451-Sort-Characters-By-Frequency|[Java](../LeetCode/Java/0451-Sort-Characters-By-Frequency/src)|Medium|
 |0217-Contains-Duplicate|[Java](../LeetCode/Java/0217-Contains-Duplicate/src)|Easy|
+|0220-Contains-Duplicate-III|[Java](../LeetCode/Java/0220-Contains-Duplicate-III/src)|Medium|
