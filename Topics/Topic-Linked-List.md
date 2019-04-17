@@ -9,3 +9,4 @@
 ## *So Easy*
 |Problem|Code|Difficulty|
 | --- | --- | --- |
+|0083-Remove-Duplicates-from-Sorted-List|[Java](../LeetCode/Java/0083-Remove-Duplicates-from-Sorted-List/src)|Easy|

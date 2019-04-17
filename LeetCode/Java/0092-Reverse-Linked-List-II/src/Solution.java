@@ -1,8 +1,10 @@
 /**
  * @author KiyonamiYu
  * @date 2019/4/17 11:24
+ * 30min
  */
 public class Solution {
+    //就多了找头尾的操作
     public ListNode reverseBetween(ListNode head, int m, int n) {
 
         ListNode dummyHead = new ListNode(0);
