@@ -10,3 +10,4 @@
 |Problem|Code|Difficulty|
 | --- | --- | --- |
 |0083-Remove-Duplicates-from-Sorted-List|[Java](../LeetCode/Java/0083-Remove-Duplicates-from-Sorted-List/src)|Easy|
+|0086-Partition-List|[Java](../LeetCode/Java/0086-Partition-List/src)|Medium|
