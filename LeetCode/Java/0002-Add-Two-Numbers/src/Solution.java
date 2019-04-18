@@ -1,6 +1,7 @@
 /**
  * @author KiyonamiYu
  * @date 2019/4/18 12:46
+ * 30min
  */
 public class Solution {
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
