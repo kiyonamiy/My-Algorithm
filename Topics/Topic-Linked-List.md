@@ -6,6 +6,7 @@
 |0206-Reverse-Linked-List|反转链表|[Java](../LeetCode/Java/0206-Reverse-Linked-List/src)|Easy|
 |0092-Reverse-Linked-List-II|反转一个链表从m到n的元素。|[Java](../LeetCode/Java/0092-Reverse-Linked-List-II/src)|Medium|
 |0445-Add-Two-Numbers-II|（大数相加）用两个链表正序存储正数，求其和（正序）。|[Java](../LeetCode/Java/0002-Add-Two-Numbers/src)|Medium|
+|0024-Swap-Nodes-in-Pairs|给定一个链表，对于每两个相邻的节点，交换其位置。|[Java](../LeetCode/Java/0024-Swap-Nodes-in-Pairs/src)|Medium|
 
 ## *So Easy*
 |Problem|Code|Difficulty|
