@@ -20,3 +20,4 @@
 |0217-Contains-Duplicate|[Java](../LeetCode/Java/0217-Contains-Duplicate/src)|Easy|
 |0220-Contains-Duplicate-III|[Java](../LeetCode/Java/0220-Contains-Duplicate-III/src)|Medium|
 |0082-Remove-Duplicates-from-Sorted-List-II|[Java](../LeetCode/Java/0082-Remove-Duplicates-from-Sorted-List-II/src)|Medium|
+|0024-Swap-Nodes-in-Pairs|[Java](../LeetCode/Java/0024-Swap-Nodes-in-Pairs/src)|Medium|
