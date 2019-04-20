@@ -7,3 +7,4 @@
 ## *So Easy*
 |Problem|Code|Difficulty|
 | --- | --- | --- |
+|0150-Evaluate-Reverse-Polish-Notation|[Java](../LeetCode/Java/0150-Evaluate-Reverse-Polish-Notation/src)|Medium|
