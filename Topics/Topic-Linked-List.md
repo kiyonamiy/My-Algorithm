@@ -18,3 +18,4 @@
 |0328-Odd-Even-Linked-List|[Java](../LeetCode/Java/0328-Odd-Even-Linked-List/src)|Medium|
 |0002-Add-Two-Numbers|[Java](../LeetCode/Java/0002-Add-Two-Numbers/src)|Medium|
 |0148-Sort-List|[Java](../LeetCode/Java/0148-Sort-List/src)|Medium|
+|0237-Delete-Node-in-a-Linked-List|[Java](../LeetCode/Java/0237-Delete-Node-in-a-Linked-List/src)|Easy|
