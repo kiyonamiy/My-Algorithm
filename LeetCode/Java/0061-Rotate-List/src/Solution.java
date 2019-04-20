@@ -1,6 +1,7 @@
 /**
  * @author KiyonamiYu
  * @date 2019/4/20 15:58
+ * 30min
  */
 public class Solution {
     public ListNode rotateRight(ListNode head, int k) {

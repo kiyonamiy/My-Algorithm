@@ -10,6 +10,7 @@
 |0025-Reverse-Nodes-in-k-Group|（穿针引线）给定一个链表，每k个节点为一组，反转每一组的k个节点。|[Java](../LeetCode/Java/0025-Reverse-Nodes-in-k-Group/src)|Hard|
 |0147-Insertion-Sort-List|链表的插入排序。|[Java](../LeetCode/Java/0147-Insertion-Sort-List/src)|Medium|
 |0061-Rotate-List|（双指针）（参考0019）让链表向右旋转k位。|[Java](../LeetCode/Java/0061-Rotate-List/src)|Medium|
+|0143-Reorder-List|（取中间位）（反转链表）将链表L0→L1→…→Ln-1→Ln重新排序为L0→Ln→L1→Ln-1→L2→Ln-2→…|[Java](../LeetCode/Java/0143-Reorder-List/src)|Medium|
 
 ## *So Easy*
 |Problem|Code|Difficulty|
