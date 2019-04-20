@@ -9,6 +9,7 @@
 |0024-Swap-Nodes-in-Pairs|给定一个链表，对于每两个相邻的节点，交换其位置。|[Java](../LeetCode/Java/0024-Swap-Nodes-in-Pairs/src)|Medium|
 |0025-Reverse-Nodes-in-k-Group|（穿针引线）给定一个链表，每k个节点为一组，反转每一组的k个节点。|[Java](../LeetCode/Java/0025-Reverse-Nodes-in-k-Group/src)|Hard|
 |0147-Insertion-Sort-List|链表的插入排序。|[Java](../LeetCode/Java/0147-Insertion-Sort-List/src)|Medium|
+|0061-Rotate-List|（双指针）（参考0019）让链表向右旋转k位。|[Java](../LeetCode/Java/0061-Rotate-List/src)|Medium|
 
 ## *So Easy*
 |Problem|Code|Difficulty|
@@ -19,3 +20,4 @@
 |0002-Add-Two-Numbers|[Java](../LeetCode/Java/0002-Add-Two-Numbers/src)|Medium|
 |0148-Sort-List|[Java](../LeetCode/Java/0148-Sort-List/src)|Medium|
 |0237-Delete-Node-in-a-Linked-List|[Java](../LeetCode/Java/0237-Delete-Node-in-a-Linked-List/src)|Easy|
+|0019-Remove-Nth-Node-From-End-of-List|[Java](../LeetCode/Java/0019-Remove-Nth-Node-From-End-of-List/src)|Medium|
