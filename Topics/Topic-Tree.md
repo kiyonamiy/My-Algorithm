@@ -8,3 +8,4 @@
 |Problem|Code|Difficulty|
 | --- | --- | --- |
 |0144-Binary-Tree-Preorder-Traversal|[Java](../LeetCode/Java/0144-Binary-Tree-Preorder-Traversal/src)|Medium|
+|0094-Binary-Tree-Inorder-Traversal|[Java](../LeetCode/Java/0094-Binary-Tree-Inorder-Traversal/src)|Medium|
