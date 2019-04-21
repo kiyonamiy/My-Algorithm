@@ -7,3 +7,4 @@
 ## *So Easy*
 |Problem|Code|Difficulty|
 | --- | --- | --- |
+|0144-Binary-Tree-Preorder-Traversal|[Java](../LeetCode/Java/0144-Binary-Tree-Preorder-Traversal/src)|Medium|
