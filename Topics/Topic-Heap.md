@@ -7,3 +7,4 @@
 ## *So Easy*
 |Problem|Code|Difficulty|
 | --- | --- | --- |
+|0023-Merge-k-Sorted-Lists|[Java](../LeetCode/Java/0023-Merge-k-Sorted-Lists/src)|Hard|
