@@ -17,3 +17,4 @@ I wish I could hold on.
 - [String](Topics/Topic-String.md)
 - [Tree](Topics/Topic-Tree.md)
 - [Two Pointers](Topics/Topic-Two-Pointers.md)
+- [Heap](Topics/Topic-Heap.md)
