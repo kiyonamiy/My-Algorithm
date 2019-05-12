@@ -16,3 +16,4 @@
 |0107-Binary-Tree-Level-Order-Traversal-II|[Java](../LeetCode/Java/0107-Binary-Tree-Level-Order-Traversal-II/src)|Easy|
 |0199-Binary-Tree-Right-Side-View|[Java](../LeetCode/Java/0199-Binary-Tree-Right-Side-View/src)|Medium|
 |0104-Maximum-Depth-of-Binary-Tree|[Java](../LeetCode/Java/0104-Maximum-Depth-of-Binary-Tree/src)|Easy|
+|0226-Invert-Binary-Tree|[Java](../LeetCode/Java/0226-Invert-Binary-Tree/src)|Easy|
