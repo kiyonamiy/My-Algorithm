@@ -18,3 +18,4 @@
 |0199-Binary-Tree-Right-Side-View|[Java](../LeetCode/Java/0199-Binary-Tree-Right-Side-View/src)|Medium|
 |0104-Maximum-Depth-of-Binary-Tree|[Java](../LeetCode/Java/0104-Maximum-Depth-of-Binary-Tree/src)|Easy|
 |0226-Invert-Binary-Tree|[Java](../LeetCode/Java/0226-Invert-Binary-Tree/src)|Easy|
+|0222-Count-Complete-Tree-Nodes|[Java](../LeetCode/Java/0222-Count-Complete-Tree-Nodes/src)|Medium|
