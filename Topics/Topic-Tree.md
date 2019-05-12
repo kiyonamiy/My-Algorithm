@@ -7,6 +7,7 @@
 |0103-Binary-Tree-Zigzag-Level-Order-Traversal|树的层序遍历，“之”字形输出。|[Java](../LeetCode/Java/0103-Binary-Tree-Zigzag-Level-Order-Traversal/src)|Medium|
 |0111-Minimum-Depth-of-Binary-Tree|树的最小深度。|[Java](../LeetCode/Java/0111-Minimum-Depth-of-Binary-Tree/src)|Easy|
 |0101-Symmetric-Tree|判断二叉树是否是左右完全对称。|[Java](../LeetCode/Java/0101-Symmetric-Tree/src)|Easy|
+|0110-Balanced-Binary-Tree|判断二叉树是否是平衡二叉树。|[Java](../LeetCode/Java/0110-Balanced-Binary-Tree/src)|Easy|
 
 ## *So Easy*
 |Problem|Code|Difficulty|
