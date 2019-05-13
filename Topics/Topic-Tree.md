@@ -8,6 +8,7 @@
 |0111-Minimum-Depth-of-Binary-Tree|树的最小深度。|[Java](../LeetCode/Java/0111-Minimum-Depth-of-Binary-Tree/src)|Easy|
 |0101-Symmetric-Tree|判断二叉树是否是左右完全对称。|[Java](../LeetCode/Java/0101-Symmetric-Tree/src)|Easy|
 |0110-Balanced-Binary-Tree|判断二叉树是否是平衡二叉树。|[Java](../LeetCode/Java/0110-Balanced-Binary-Tree/src)|Easy|
+|0112-Path-Sum|给出一棵二叉树和一个目标sum，判断是否有路径从根节点到叶节点和等于目标sum。|[Java](../LeetCode/Java/0112-Path-Sum/src)|Easy|
 
 ## *So Easy*
 |Problem|Code|Difficulty|
