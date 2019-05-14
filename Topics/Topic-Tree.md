@@ -10,6 +10,7 @@
 |0110-Balanced-Binary-Tree|判断二叉树是否是平衡二叉树。|[Java](../LeetCode/Java/0110-Balanced-Binary-Tree/src)|Easy|
 |0112-Path-Sum|给出一棵二叉树和一个目标sum，判断是否有路径从根节点到叶节点和等于目标sum。|[Java](../LeetCode/Java/0112-Path-Sum/src)|Easy|
 |0404-Sum-of-Left-Leaves|计算一棵二叉树所有左叶子的和。|[Java](../LeetCode/Java/0404-Sum-of-Left-Leaves/src)|Easy|
+|0257-Binary-Tree-Paths|给定一棵二叉树，返回所有从根节点到叶节点路径的字符串。|[Java](../LeetCode/Java/0257-Binary-Tree-Paths/src)|Easy|
 
 ## *So Easy*
 |Problem|Code|Difficulty|
