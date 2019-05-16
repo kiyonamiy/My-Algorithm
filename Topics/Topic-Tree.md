@@ -13,6 +13,7 @@
 |0257-Binary-Tree-Paths|给定一棵二叉树，返回所有从根节点到叶节点路径的字符串。|[Java](../LeetCode/Java/0257-Binary-Tree-Paths/src)|Easy|
 |0437-Path-Sum-III|给定一棵二叉树和目标和sum，问路径上节点和为sum的路径有多少条。（不要求从根到叶；路径只能从上往下，不能借助其他子树。）|[Java](../LeetCode/Java/0437-Path-Sum-III/src)|Easy|
 |0235-Lowest-Common-Ancestor-of-a-Binary-Search-Tree|平衡二叉树中，寻找两个节点的最近公共祖先（LCA）。|[Java](../LeetCode/Java/0235-Lowest-Common-Ancestor-of-a-Binary-Search-Tree/src)|Easy|
+|0098-Validate-Binary-Search-Tree|判断一棵树是否是二分搜索树。|[Java](../LeetCode/Java/0098-Validate-Binary-Search-Tree/src)|Medium|
 
 ## *So Easy*
 |Problem|Code|Difficulty|
