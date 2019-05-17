@@ -12,11 +12,13 @@
 |0404-Sum-of-Left-Leaves|计算一棵二叉树所有左叶子的和。|[Java](../LeetCode/Java/0404-Sum-of-Left-Leaves/src)|Easy|
 |0257-Binary-Tree-Paths|给定一棵二叉树，返回所有从根节点到叶节点路径的字符串。|[Java](../LeetCode/Java/0257-Binary-Tree-Paths/src)|Easy|
 |0437-Path-Sum-III|给定一棵二叉树和目标和sum，问路径上节点和为sum的路径有多少条。（不要求从根到叶；路径只能从上往下，不能借助其他子树。）|[Java](../LeetCode/Java/0437-Path-Sum-III/src)|Easy|
-|0235-Lowest-Common-Ancestor-of-a-Binary-Search-Tree|【经典】在二分搜索树中寻找两个节点的最近公共祖先（二分搜索树中的LCA）。|[Java](../LeetCode/Java/0235-Lowest-Common-Ancestor-of-a-Binary-Search-Tree/src)|Easy|
+|0235-Lowest-Common-Ancestor-of-a-Binary-Search-Tree|【经典】在二分搜索树中寻找两个节点的最近公共祖先（BST-LCA）。|[Java](../LeetCode/Java/0235-Lowest-Common-Ancestor-of-a-Binary-Search-Tree/src)|Easy|
+|0236-Lowest-Common-Ancestor-of-a-Binary-Tree|【超经典】一棵普通二叉树，寻找两个节点的最近公共祖先（LCA）。|[Java](../LeetCode/Java/0236-Lowest-Common-Ancestor-of-a-Binary-Tree/src)|Medium|
 |0098-Validate-Binary-Search-Tree|【经典】判断一棵树是否是二分搜索树。|[Java](../LeetCode/Java/0098-Validate-Binary-Search-Tree/src)|Medium|
 |0450-Delete-Node-in-a-BST|【经典】在一棵二叉搜索树中删除指定的节点。|[Java](../LeetCode/Java/0450-Delete-Node-in-a-BST/src)|Medium|
 |0108-Convert-Sorted-Array-to-Binary-Search-Tree|给定一个有序数组，将其转化为平衡二叉树。|[Java](../LeetCode/Java/0108-Convert-Sorted-Array-to-Binary-Search-Tree/src)|Easy|
 |0230-Kth-Smallest-Element-in-a-BST|【经典】在一棵二叉搜索树中，寻找第k小的元素。|[Java](../LeetCode/Java/0230-Kth-Smallest-Element-in-a-BST/src)|Medium|
+
 
 ## *So Easy*
 |Problem|Code|Difficulty|
