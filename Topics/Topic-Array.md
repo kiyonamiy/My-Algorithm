@@ -11,3 +11,4 @@
 |0001-Two-Sum|[Java](../LeetCode/Java/0001-Two-Sum/src)|Easy|
 |0015-3Sum|[Java](../LeetCode/Java/0015-3Sum/src)|Medium|
 |0905-Sort-Array-By-Parity|[JavaScript](../LeetCode/JavaScript/src/0905-Sort-Array-By-Parity.js)|Easy|
+|0977-Squares-of-a-Sorted-Array|[JavaScript](../LeetCode/JavaScript/src/0977-Squares-of-a-Sorted-Array.js)|Easy|
