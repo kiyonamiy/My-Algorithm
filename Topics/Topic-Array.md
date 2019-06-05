@@ -14,3 +14,4 @@
 |0977-Squares-of-a-Sorted-Array|[JavaScript](../LeetCode/JavaScript/src/0977-Squares-of-a-Sorted-Array.js)|Easy|
 |1051-Height-Checker|[JavaScript](../LeetCode/JavaScript/src/1051-Height-Checker.js)|Easy|
 |0442-Find-All-Duplicates-in-an-Array|[JavaScript](../LeetCode/JavaScript/src/0442-Find-All-Duplicates-in-an-Array.js)|Medium|
+|0896-Monotonic-Array|[JavaScript](../LeetCode/JavaScript/src/0896-Monotonic-Array.js)|Easy|
