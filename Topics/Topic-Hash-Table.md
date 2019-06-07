@@ -20,3 +20,4 @@
 |0217-Contains-Duplicate|[Java](../LeetCode/Java/0217-Contains-Duplicate/src)|Easy|
 |0220-Contains-Duplicate-III|[Java](../LeetCode/Java/0220-Contains-Duplicate-III/src)|Medium|
 |0082-Remove-Duplicates-from-Sorted-List-II|[Java](../LeetCode/Java/0082-Remove-Duplicates-from-Sorted-List-II/src)|Medium|
+|0169-Majority-Element|[JavaScript](../LeetCode/JavaScript/src/0169-Majority-Element.js)|Easy|
