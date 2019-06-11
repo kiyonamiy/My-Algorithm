@@ -13,3 +13,4 @@
 |Problem|Code|Difficulty|
 | --- | --- | --- |
 |0150-Evaluate-Reverse-Polish-Notation|[Java](../LeetCode/Java/0150-Evaluate-Reverse-Polish-Notation/src)|Medium|
+|0150-Evaluate-Reverse-Polish-Notation|[JavaScript](../LeetCode/JavaScript/src/1047-Remove-All-Adjacent-Duplicates-In-String.js)|Easy|
