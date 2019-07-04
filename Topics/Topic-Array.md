@@ -4,6 +4,7 @@
 | --- | --- | --- | --- |
 |0018-4Sum|（对撞指针）给出一个整形数组，寻找其中的所有不同的四元组(a, b, c, d)，使得a+b+c+d等于一个给定的数字target。|[Java](../LeetCode/Java/0018-4Sum/src)|Medium|
 |0017-Letter-Combinations-of-a-Phone-Number|（组合问题）电话号码对应字母顺序组合。|[JavaScript](../LeetCode/JavaScript/src/0017-Letter-Combinations-of-a-Phone-Number.js)|Medium|
+|0914-X-of-a-Kind-in-a-Deck-of-Cards|（最大公约数）给牌进行分组，每组的数量>=2，且每组的牌数值都相同。|[JavaScript](../LeetCode/JavaScript/src/0914-X-of-a-Kind-in-a-Deck-of-Cards.js)|Easy|
 
 ## *So Easy*
 |Problem|Code|Difficulty|
