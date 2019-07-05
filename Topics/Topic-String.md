@@ -2,6 +2,7 @@
 
 |Problem|Abstract|Code|Difficulty|
 | --- | --- | --- | --- |
+| 0459-Repeated-Substring-Pattern | (偷懒：正则) 判断字符串是否可以由一个子串重复多次构成。 | [JavaScript](../LeetCode/JavaScript/src/0459-Repeated-Substring-Pattern .js) | Easy |
 
 ## *So Easy*
 |Problem|Code|Difficulty|
