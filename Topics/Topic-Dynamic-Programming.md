@@ -7,4 +7,6 @@
 ## *So Easy*
 |Problem|Code|Difficulty|
 | --- | --- | --- |
+|0070-Climbing-Stairs|[JavaScript](../LeetCode/JavaScript/src/0070-Climbing-Stairs.js)|Easy|
+
 
