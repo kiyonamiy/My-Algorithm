@@ -10,5 +10,6 @@
 | --- | --- | --- |
 |0070-Climbing-Stairs|[JavaScript](../LeetCode/JavaScript/src/0070-Climbing-Stairs.js)|Easy|
 |0343-Integer-Break|[JavaScript](../LeetCode/JavaScript/src/0343-Integer-Break.js)|Medium|
+|0300-Longest-Increasing-Subsequence|[JavaScript](../LeetCode/JavaScript/src/0300-Longest-Increasing-Subsequence.js)|Medium|
 
 
