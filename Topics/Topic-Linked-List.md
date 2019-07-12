@@ -11,6 +11,7 @@
 |0147-Insertion-Sort-List|链表的插入排序。|[Java](../LeetCode/Java/0147-Insertion-Sort-List/src)|Medium|
 |0061-Rotate-List|（双指针）（参考0019）让链表向右旋转k位。|[Java](../LeetCode/Java/0061-Rotate-List/src)|Medium|
 |0143-Reorder-List|（取中间位）（反转链表）将链表L0→L1→…→Ln-1→Ln重新排序为L0→Ln→L1→Ln-1→L2→Ln-2→…|[Java](../LeetCode/Java/0143-Reorder-List/src)|Medium|
+|0141-Linked-List-Cycle|判断一个链表是否有环。|[JavaScript](../LeetCode/JavaScript/src/0141-Linked-List-Cycle.js)|Easy|
 
 ## *So Easy*
 |Problem|Code|Difficulty|
