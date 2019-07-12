@@ -4,11 +4,10 @@
  * @return {number}
  */
 var findMedianSortedArrays = (nums1, nums2) => {
-    // let nums = [...nums1, ...nums2].sort((a, b) => {
-    //     return a - b;
-    // });
+    let nums = [...nums1, ...nums2].sort((a, b) => {
+        return a - b;
+    });
     let nums = [];
-    while()
     let len = nums.length;
     let index = parseInt(len / 2);
     if(len % 2) {
