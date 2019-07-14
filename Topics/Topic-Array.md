@@ -6,6 +6,7 @@
 |0017-Letter-Combinations-of-a-Phone-Number|（组合问题）电话号码对应字母顺序组合。|[JavaScript](../LeetCode/JavaScript/src/0017-Letter-Combinations-of-a-Phone-Number.js)|Medium|
 |0914-X-of-a-Kind-in-a-Deck-of-Cards|（最大公约数）给牌进行分组，每组的数量>=2，且每组的牌数值都相同。|[JavaScript](../LeetCode/JavaScript/src/0914-X-of-a-Kind-in-a-Deck-of-Cards.js)|Easy|
 |0089-Gray-Code|（找规律）格雷编码。下一个数与当前数相比，只变化一位（二进制情况下）|[JavaScript](../LeetCode/JavaScript/src/0089-Gray-Code.js)|Medium|
+|0136-Single-Number|一个数组中所有的数字出现两次除了一个数字，求出该数。|[JavaScript](../LeetCode/JavaScript/src/0136-Single-Number.js)|Easy|
 
 ## *So Easy*
 |Problem|Code|Difficulty|
