@@ -18,7 +18,7 @@
 |0450-Delete-Node-in-a-BST|【经典】在一棵二叉搜索树中删除指定的节点。|[Java](../LeetCode/Java/0450-Delete-Node-in-a-BST/src)|Medium|
 |0108-Convert-Sorted-Array-to-Binary-Search-Tree|给定一个有序数组，将其转化为平衡二叉树。|[Java](../LeetCode/Java/0108-Convert-Sorted-Array-to-Binary-Search-Tree/src)|Easy|
 |0230-Kth-Smallest-Element-in-a-BST|【经典】在一棵二叉搜索树中，寻找第k小的元素。|[Java](../LeetCode/Java/0230-Kth-Smallest-Element-in-a-BST/src)|Medium|
-
+|004.重建二叉树|根据二叉树的前序遍历和中序遍历，重新建树。|[JavaScript](../剑指Offer/JavaScript/src/004.重建二叉树.js)|----|
 
 ## *So Easy*
 |Problem|Code|Difficulty|
