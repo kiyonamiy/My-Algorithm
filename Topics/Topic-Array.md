@@ -23,3 +23,6 @@
 |0054-Spiral-Matrix|[JavaScript](../LeetCode/JavaScript/src/0054-Spiral-Matrix.js)|Medium|
 |0004-Median-of-Two-Sorted-Arrays|[JavaScript](../LeetCode/JavaScript/src/0004-Median-of-Two-Sorted-Arrays.js)|Hard|
 |001.二维数组中的查找|[JavaScript](../剑指Offer/JavaScript/src/001.二维数组中的查找.js)|----|
+|005.用两个栈实现队列|[JavaScript](../剑指Offer/JavaScript/src/005.用两个栈实现队列.js)|----|
+|006.旋转数组的最小数字|[JavaScript](../剑指Offer/JavaScript/src/006.旋转数组的最小数字.js)|----|
+|013.调整数组顺序使奇数位于偶数前面|[JavaScript](../剑指Offer/JavaScript/src/013.调整数组顺序使奇数位于偶数前面.js)|----|

@@ -12,6 +12,7 @@
 |0061-Rotate-List|（双指针）（参考0019）让链表向右旋转k位。|[Java](../LeetCode/Java/0061-Rotate-List/src)|Medium|
 |0143-Reorder-List|（取中间位）（反转链表）将链表L0→L1→…→Ln-1→Ln重新排序为L0→Ln→L1→Ln-1→L2→Ln-2→…|[Java](../LeetCode/Java/0143-Reorder-List/src)|Medium|
 |0141-Linked-List-Cycle|判断一个链表是否有环。|[JavaScript](../LeetCode/JavaScript/src/0141-Linked-List-Cycle.js)|Easy|
+|014.链表中倒数第k个结点|注意边界|[JavaScript](../剑指Offer/JavaScript/src/014.链表中倒数第k个结点.js)|----|
 
 ## *So Easy*
 |Problem|Code|Difficulty|
@@ -26,3 +27,5 @@
 |0234-Palindrome-Linked-List|[Java](../LeetCode/Java/0234-Palindrome-Linked-List/src)|Easy|
 |0021-Merge-Two-Sorted-Lists|[JavaScript](../LeetCode/JavaScript/src/0021-Merge-Two-Sorted-Lists.js)|Easy|
 |003.从尾到头打印链表|[JavaScript](../剑指Offer/JavaScript/src/003.从尾到头打印链表.js)|----|
+|015.反转链表|[JavaScript](../剑指Offer/JavaScript/src/015.反转链表.js)|----|
+|016.合并两个排序的链表|[JavaScript](../剑指Offer/JavaScript/src/016.合并两个排序的链表.js)|----|
