@@ -20,6 +20,7 @@
 |0230-Kth-Smallest-Element-in-a-BST|【经典】在一棵二叉搜索树中，寻找第k小的元素。|[Java](../LeetCode/Java/0230-Kth-Smallest-Element-in-a-BST/src)|Medium|
 |004.重建二叉树|根据二叉树的前序遍历和中序遍历，重新建树。|[JavaScript](../剑指Offer/JavaScript/src/004.重建二叉树.js)|----|
 |017.树的子结构|输入两棵二叉树A，B，判断B是不是A的子结构。|[JavaScript](../剑指Offer/JavaScript/src/017.树的子结构.js)|----|
+|023.二叉搜索树的后序遍历序列|判断一个序列是否可以由二叉搜索树后序遍历生成。|[JavaScript](../剑指Offer/JavaScript/src/023.二叉搜索树的后序遍历序列.js)|----|
 
 ## *So Easy*
 |Problem|Code|Difficulty|
@@ -35,3 +36,5 @@
 |0113-Path-Sum-II|[Java](../LeetCode/Java/0113-Path-Sum-II/src)|Medium|
 |0129-Sum-Root-to-Leaf-Numbers|[Java](../LeetCode/Java/0129-Sum-Root-to-Leaf-Numbers/src)|Medium|
 |018.二叉树的镜像|[JavaScript](../剑指Offer/JavaScript/src/018.二叉树的镜像.js)|----|
+|022.从上往下打印二叉树|[JavaScript](../剑指Offer/JavaScript/src/022.从上往下打印二叉树.js)|----|
+|024.二叉树中和为某一值的路径|[JavaScript](../剑指Offer/JavaScript/src/024.二叉树中和为某一值的路径.js)|----|
