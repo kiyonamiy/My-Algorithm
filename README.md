@@ -18,4 +18,5 @@ I wish I could hold on.
 - [Tree](Topics/Topic-Tree.md)
 - [Two Pointers](Topics/Topic-Two-Pointers.md)
 - [Heap](Topics/Topic-Heap.md)
-- [Greedy](Topics/Greedy.md)
+- [Greedy](Topics/Topic-Greedy.md)
+- [Dynamic Programming](Topics/Topic-Dynamic-Programming.md)
