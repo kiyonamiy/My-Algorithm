@@ -7,6 +7,7 @@
 |0416-Partition-Equal-Subset-Sum|问是否可以将一个数组分为两份，使两份分别求和相等。|[JavaScript](../LeetCode/JavaScript/src/0416-Partition-Equal-Subset-Sum.js)|Medium|
 |0005-Longest-Palindromic-Substring|找出字符串中最长的回文子串。|[JavaScript](../LeetCode/JavaScript/src/0005-Longest-Palindromic-Substring.js)|Medium|
 |010.矩形覆盖|用n个2X1的小矩形无重叠地覆盖一个2Xn的大矩形，总共有多少种方法|[JavaScript](../剑指Offer/JavaScript/src/010.矩形覆盖.js)|----|
+|030.连续子数组的最大和|最大连续子序列的和|[JavaScript](../剑指Offer/JavaScript/src/030.连续子数组的最大和.js)|:pensive:|
 
 
 ## *So Easy*
