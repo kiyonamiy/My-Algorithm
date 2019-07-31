@@ -29,3 +29,4 @@
 |013.调整数组顺序使奇数位于偶数前面|[JavaScript](../剑指Offer/JavaScript/src/013.调整数组顺序使奇数位于偶数前面.js)|----|
 |028.数组中出现次数超过一半的数字|[JavaScript](../剑指Offer/JavaScript/src/028.数组中出现次数超过一半的数字.js)|----|
 |029.最小的K个数|[JavaScript](../剑指Offer/JavaScript/src/029.最小的K个数.js)|----|
+|032.把数组排成最小的数|[JavaScript](../剑指Offer/JavaScript/src/032.把数组排成最小的数.js)|----|
