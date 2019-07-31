@@ -27,3 +27,5 @@
 |005.用两个栈实现队列|[JavaScript](../剑指Offer/JavaScript/src/005.用两个栈实现队列.js)|----|
 |006.旋转数组的最小数字|[JavaScript](../剑指Offer/JavaScript/src/006.旋转数组的最小数字.js)|----|
 |013.调整数组顺序使奇数位于偶数前面|[JavaScript](../剑指Offer/JavaScript/src/013.调整数组顺序使奇数位于偶数前面.js)|----|
+|028.数组中出现次数超过一半的数字|[JavaScript](../剑指Offer/JavaScript/src/028.数组中出现次数超过一半的数字.js)|----|
+|029.最小的K个数|[JavaScript](../剑指Offer/JavaScript/src/029.最小的K个数.js)|----|
