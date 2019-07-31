@@ -13,7 +13,7 @@
 |0143-Reorder-List|（取中间位）（反转链表）将链表L0→L1→…→Ln-1→Ln重新排序为L0→Ln→L1→Ln-1→L2→Ln-2→…|[Java](../LeetCode/Java/0143-Reorder-List/src)|Medium|
 |0141-Linked-List-Cycle|判断一个链表是否有环。|[JavaScript](../LeetCode/JavaScript/src/0141-Linked-List-Cycle.js)|Easy|
 |014.链表中倒数第k个结点|注意边界|[JavaScript](../剑指Offer/JavaScript/src/014.链表中倒数第k个结点.js)|----|
-|025.复杂链表的复制|注意边界|[JavaScript](../剑指Offer/JavaScript/src/025.复杂链表的复制.js)|----|
+|025.复杂链表的复制|输入一个复杂链表（每个节点中有节点值 label，以及两个指针 next random），返回结果为复制后复杂链表的head。|[JavaScript](../剑指Offer/JavaScript/src/025.复杂链表的复制.js)|----|
 
 ## *So Easy*
 |Problem|Code|Difficulty|

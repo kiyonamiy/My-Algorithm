@@ -21,6 +21,7 @@
 |004.重建二叉树|根据二叉树的前序遍历和中序遍历，重新建树。|[JavaScript](../剑指Offer/JavaScript/src/004.重建二叉树.js)|----|
 |017.树的子结构|输入两棵二叉树A，B，判断B是不是A的子结构。|[JavaScript](../剑指Offer/JavaScript/src/017.树的子结构.js)|----|
 |023.二叉搜索树的后序遍历序列|判断一个序列是否可以由二叉搜索树后序遍历生成。|[JavaScript](../剑指Offer/JavaScript/src/023.二叉搜索树的后序遍历序列.js)|----|
+|026.二叉搜索树与双向链表|输入一棵二叉搜索树，将该二叉搜索树原地转换成一个排序的双向链表。|[JavaScript](../剑指Offer/JavaScript/src/026.二叉搜索树与双向链表.js)|----|
 
 ## *So Easy*
 |Problem|Code|Difficulty|
