@@ -7,6 +7,8 @@
 |0447-Number-of-Boomerangs|给出n个点坐标，求三元组个数，使其构成一个回旋镖。（i,j,k三点，i到j和i到k距离相等）|[Java](../LeetCode/Java/0447-Number-of-Boomerangs/src)|Medium|
 |0149-Max-Points-on-a-Line|（Map中Key的巧取）给出n个点，判断最多有多少个点在一条直线上。|[Java](../LeetCode/Java/0149-Max-Points-on-a-Line/src)|Hard|
 |0219-Contains-Duplicate-II|（滑动窗口）给出一个整形数组nums和一个整数k，是否存在索引i和j，使得nums[i] == nums[j]且i和j之间的差不超过k|[Java](../LeetCode/Java/0219-Contains-Duplicate-II/src)|Easy|
+|034.第一个只出现一次的字符|（字符统计的标准写法）在一个字符串(全部由字母组成)中找到第一个只出现一次的字符，输出位置。|[JavaScript](../剑指Offer/JavaScript/src/034.第一个只出现一次的字符.js)|:smile:|
+
 
 ## *So Easy*
 |Problem|Code|Difficulty|
