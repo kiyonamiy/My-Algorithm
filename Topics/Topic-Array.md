@@ -8,6 +8,7 @@
 |0089-Gray-Code|（找规律）格雷编码。下一个数与当前数相比，只变化一位（二进制情况下）|[JavaScript](../LeetCode/JavaScript/src/0089-Gray-Code.js)|Medium|
 |0136-Single-Number|一个数组中所有的数字出现两次除了一个数字，求出该数。|[JavaScript](../LeetCode/JavaScript/src/0136-Single-Number.js)|Easy|
 |019.顺时针打印矩阵|输入一个矩阵，按照从外向里以顺时针的顺序依次打印出每一个数字。|[JavaScript](../剑指Offer/JavaScript/src/019.顺时针打印矩阵.js)|----|
+|033.丑数|把只包含*质因子*2、3和5的数称作丑数（Ugly Number）。求按从小到大的顺序的第N个丑数。|[JavaScript](../剑指Offer/JavaScript/src/033.丑数阵.js)|:expressionless:|
 
 ## *So Easy*
 |Problem|Code|Difficulty|
