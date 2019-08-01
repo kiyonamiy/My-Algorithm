@@ -30,3 +30,4 @@
 |003.从尾到头打印链表|[JavaScript](../剑指Offer/JavaScript/src/003.从尾到头打印链表.js)|----|
 |015.反转链表|[JavaScript](../剑指Offer/JavaScript/src/015.反转链表.js)|----|
 |016.合并两个排序的链表|[JavaScript](../剑指Offer/JavaScript/src/016.合并两个排序的链表.js)|----|
+|036.两个链表的第一个公共结点|[JavaScript](../剑指Offer/JavaScript/src/036.两个链表的第一个公共结点.js)|----|
