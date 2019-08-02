@@ -39,3 +39,5 @@
 |018.二叉树的镜像|[JavaScript](../剑指Offer/JavaScript/src/018.二叉树的镜像.js)|----|
 |022.从上往下打印二叉树|[JavaScript](../剑指Offer/JavaScript/src/022.从上往下打印二叉树.js)|----|
 |024.二叉树中和为某一值的路径|[JavaScript](../剑指Offer/JavaScript/src/024.二叉树中和为某一值的路径.js)|----|
+|038.二叉树的深度|[JavaScript](../剑指Offer/JavaScript/src/038.二叉树的深度.js)|----|
+
