@@ -17,3 +17,4 @@
 | --- | --- | --- |
 |0344-Reverse-String|[Java](../LeetCode/Java/0344-Reverse-String/src)|Easy|
 |0125-Valid-Palindrome|[Java](../LeetCode/Java/0125-Valid-Palindrome/src)|Easy|
+|041.和为S的连续正数序列|[JavaScript](../剑指Offer/JavaScript/src/041.和为S的连续正数序列.js)|----|
