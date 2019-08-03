@@ -14,3 +14,5 @@
 |0557-Reverse-Words-in-a-String-III|[JavaScript](../LeetCode/JavaScript/src/0557-Reverse-Words-in-a-String-III.js)|Easy|
 |0791-Custom-Sort-String|[JavaScript](../LeetCode/JavaScript/src/0791-Custom-Sort-String.js)|Medium|
 |002.替换空格|[JavaScript](../剑指Offer/JavaScript/src/002.替换空格.js)|----|
+|043.左旋转字符串|[JavaScript](../剑指Offer/JavaScript/src/043.左旋转字符串.js)|----|
+|044.翻转单词顺序列|[JavaScript](../剑指Offer/JavaScript/src/044.翻转单词顺序列.js)|----|

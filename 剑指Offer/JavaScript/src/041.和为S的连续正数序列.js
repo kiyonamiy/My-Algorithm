@@ -1,3 +1,4 @@
+// 滑动窗口
 function FindContinuousSequence(target) {
     const result = [];
     if(target < 3) {
