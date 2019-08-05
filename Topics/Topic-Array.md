@@ -10,6 +10,7 @@
 |019.顺时针打印矩阵|输入一个矩阵，按照从外向里以顺时针的顺序依次打印出每一个数字。|[JavaScript](../剑指Offer/JavaScript/src/019.顺时针打印矩阵.js)|----|
 |033.丑数|把只包含*质因子*2、3和5的数称作丑数（Ugly Number）。求按从小到大的顺序的第N个丑数。|[JavaScript](../剑指Offer/JavaScript/src/033.丑数.js)|:expressionless:|
 |046.孩子们的游戏圆圈中最后剩下的数|约瑟夫环问题。|[JavaScript](../剑指Offer/JavaScript/src/046.孩子们的游戏圆圈中最后剩下的数.js)| :rage: |
+|051.构建乘积数组|给定数组A，其中B中的元素B[i]=A[0]*A[1]*...*A[i-1]*A[i+1]*...*A[n-1]。不能使用除法。|[JavaScript](../剑指Offer/JavaScript/src/051.构建乘积数组.js)| ---- |
 
 ## *So Easy*
 |Problem|Code|Difficulty|
@@ -35,3 +36,4 @@
 |037.数字在排序数组中出现的次数|[JavaScript](../剑指Offer/JavaScript/src/037.数字在排序数组中出现的次数.js)|----|
 |042.和为S的两个数字|[JavaScript](../剑指Offer/JavaScript/src/042.和为S的两个数字.js)|----|
 |045.扑克牌顺子|[JavaScript](../剑指Offer/JavaScript/src/045.扑克牌顺子.js)|----|
+|050.数组中重复的数字|[JavaScript](../剑指Offer/JavaScript/src/050.数组中重复的数字.js)|----|

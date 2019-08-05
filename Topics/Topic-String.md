@@ -16,3 +16,4 @@
 |002.替换空格|[JavaScript](../剑指Offer/JavaScript/src/002.替换空格.js)|----|
 |043.左旋转字符串|[JavaScript](../剑指Offer/JavaScript/src/043.左旋转字符串.js)|----|
 |044.翻转单词顺序列|[JavaScript](../剑指Offer/JavaScript/src/044.翻转单词顺序列.js)|----|
+|049.把字符串转换成整数|[JavaScript](../剑指Offer/JavaScript/src/049.把字符串转换成整数.js)|----|
