@@ -6,6 +6,7 @@
 |0022-Generate-Parentheses|给出数字n，代表有多少对括号。输出所有括号能正确配对的字符串。|[JavaScript](../LeetCode/JavaScript/src/0022-Generate-Parentheses.js)|Medium|
 |027.字符串的排列|（任意组合的标准写法）输入一个字符串,按字典序打印出该字符串中字符的所有排列。|[JavaScript](../剑指Offer/JavaScript/src/027.字符串的排列.js)| :sob::sob::sob: |
 |052.正则表达式匹配|（标准写法）请实现一个函数用来匹配包括'.'和'*'的正则表达式。|[JavaScript](../剑指Offer/JavaScript/src/052.正则表达式匹配.js)| :thumbsup: |
+|053.表示数值的字符串|请实现一个函数用来判断字符串是否表示数值（"+100","5e2"）|[JavaScript](../剑指Offer/JavaScript/src/053.表示数值的字符串.js)|:expressionless: |
 
 
 ## *So Easy*
