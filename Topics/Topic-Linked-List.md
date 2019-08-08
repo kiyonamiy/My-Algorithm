@@ -15,6 +15,7 @@
 |014.链表中倒数第k个结点|注意边界|[JavaScript](../剑指Offer/JavaScript/src/014.链表中倒数第k个结点.js)|----|
 |025.复杂链表的复制|输入一个复杂链表（每个节点中有节点值 label，以及两个指针 next random），返回结果为复制后复杂链表的head。|[JavaScript](../剑指Offer/JavaScript/src/025.复杂链表的复制.js)|----|
 |055.链表中环的入口结点|给一个链表，若其中包含环，请找出该链表的环的入口结点，否则，输出null。|[JavaScript](../剑指Offer/JavaScript/src/055.链表中环的入口结点.js)|----|
+|056.删除链表中重复的节点|在一个排序的链表中，存在重复的结点，请删除该链表中重复的结点，重复的结点不保留。|[JavaScript](../剑指Offer/JavaScript/src/056.删除链表中重复的节点.js)|----|
 
 ## *So Easy*
 |Problem|Code|Difficulty|
