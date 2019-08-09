@@ -13,6 +13,7 @@ function isSymmetrical(pRoot) {
     }
 
     const recursion = (leftNode, rightNode) => {
+        // 递归的时候， 左右相等不返回，会中断递归；所以递归到底，才返回
         if(leftNode == null && rightNode == null) {
             return true;
         }

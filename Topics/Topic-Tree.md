@@ -25,6 +25,7 @@
 |039.平衡二叉树|（标准写法）判断该二叉树是否是平衡二叉树。|[JavaScript](../剑指Offer/JavaScript/src/039.平衡二叉树.js)|:thumbsup:|
 |057.二叉树的下一个结点|给定一个二叉树和其中的一个结点，请找出中序遍历顺序的下一个结点并且返回。|[JavaScript](../剑指Offer/JavaScript/src/057.二叉树的下一个结点.js)|----|
 |058.对称的二叉树|请实现一个函数，用来判断一颗二叉树是不是对称的。|[JavaScript](../剑指Offer/JavaScript/src/058.对称的二叉树.js)|:thumbsup:|
+|059.按之字形顺序打印二叉树|请实现一个函数按照之字形打印二叉树。|[JavaScript](../剑指Offer/JavaScript/src/059.按之字形顺序打印二叉树.js)|:thumbsup:|
 
 ## *So Easy*
 |Problem|Code|Difficulty|
