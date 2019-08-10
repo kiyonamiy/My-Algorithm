@@ -26,6 +26,7 @@
 |057.二叉树的下一个结点|给定一个二叉树和其中的一个结点，请找出中序遍历顺序的下一个结点并且返回。|[JavaScript](../剑指Offer/JavaScript/src/057.二叉树的下一个结点.js)|----|
 |058.对称的二叉树|请实现一个函数，用来判断一颗二叉树是不是对称的。|[JavaScript](../剑指Offer/JavaScript/src/058.对称的二叉树.js)|:thumbsup:|
 |059.按之字形顺序打印二叉树|请实现一个函数按照之字形打印二叉树。|[JavaScript](../剑指Offer/JavaScript/src/059.按之字形顺序打印二叉树.js)|:thumbsup:|
+|061.序列化二叉树|分别用来序列化(先序遍历)和反序列化二叉树（数组构建树）|[JavaScript](../剑指Offer/JavaScript/src/061.序列化二叉树.js)|----|
 
 ## *So Easy*
 |Problem|Code|Difficulty|
@@ -44,4 +45,5 @@
 |022.从上往下打印二叉树|[JavaScript](../剑指Offer/JavaScript/src/022.从上往下打印二叉树.js)|----|
 |024.二叉树中和为某一值的路径|[JavaScript](../剑指Offer/JavaScript/src/024.二叉树中和为某一值的路径.js)|----|
 |038.二叉树的深度|[JavaScript](../剑指Offer/JavaScript/src/038.二叉树的深度.js)|----|
+|060.把二叉树打印成多行|[JavaScript](../剑指Offer/JavaScript/src/060.把二叉树打印成多行.js)|----|
 
