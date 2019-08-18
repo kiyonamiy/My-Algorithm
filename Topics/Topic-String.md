@@ -7,7 +7,8 @@
 |027.字符串的排列|（任意组合的标准写法）输入一个字符串,按字典序打印出该字符串中字符的所有排列。|[JavaScript](../剑指Offer/JavaScript/src/027.字符串的排列.js)| :sob::sob::sob: |
 |052.正则表达式匹配|（标准写法）请实现一个函数用来匹配包括'.'和'*'的正则表达式。|[JavaScript](../剑指Offer/JavaScript/src/052.正则表达式匹配.js)| :thumbsup: |
 |053.表示数值的字符串|请实现一个函数用来判断字符串是否表示数值（"+100","5e2"）|[JavaScript](../剑指Offer/JavaScript/src/053.表示数值的字符串.js)|:expressionless: |
-|054.字符流中第一个不重复的字符|请实现一个函数用来找出字符流中第一个只出现一次的字符。|[JavaScript](../剑指Offer/JavaScript/src/054.字符流中第一个不重复的字符.js)|---- |
+|054.字符流中第一个不重复的字符|请实现一个函数用来找出字符流中第一个只出现一次的字符。|[JavaScript](../剑指Offer/JavaScript/src/054.字符流中第一个不重复的字符.js)| ---- |
+|065.矩阵中的路径||[JavaScript](../剑指Offer/JavaScript/src/065.矩阵中的路径.js)| :smile: |
 
 
 ## *So Easy*
