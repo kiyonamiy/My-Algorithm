@@ -2,7 +2,7 @@
  * @Author: KiyonamiYu 
  * @Date: 2019-08-23 20:27:26 
  * @Last Modified by: KiyonamiYu
- * @Last Modified time: 2019-08-23 22:31:14
+ * @Last Modified time: 2019-08-23 22:40:07
  */
 /**
  * @param {string} s
@@ -13,18 +13,18 @@ var wordBreak = (s, wordDict) => {
 
     const flags = new Array(s.length + 1);
     flags.fill(false);
-    flags[0] = true;
+    flags[0] = true;        // [-∞, 0) => true
 
     for(let i = 1; i <= s.length; i ++) {
         for(let j = 0; j < i; j ++) {
-            if(flags[j] && wordDict.includes(s.substring(j, i))) {
+            if(flags[j] && wordDict.includes(s.substring(j, i))) {      // [j, i)
                 flags[i] = true;
                 break;
             }
         }
     }
 
-    return flags[s.length];
+    return flags[flags.length - 1];
 }
 // var wordBreak = (s, wordDict) => {
 //     const record = new Map();
