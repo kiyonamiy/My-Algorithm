@@ -2,6 +2,8 @@
 
 |Problem|Abstract|Code|Difficulty|
 | --- | --- | --- | --- |
+|0435-Non-overlapping-Intervals|[JavaScript](../LeetCode/JavaScript/src/0435-Non-overlapping-Intervals.js)|Medium|
+
 
 ## *So Easy*
 |Problem|Code|Difficulty|
