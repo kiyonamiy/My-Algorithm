@@ -9,6 +9,7 @@
 |053.表示数值的字符串|请实现一个函数用来判断字符串是否表示数值（"+100","5e2"）|[JavaScript](../剑指Offer/JavaScript/src/053.表示数值的字符串.js)|:expressionless: |
 |054.字符流中第一个不重复的字符|请实现一个函数用来找出字符流中第一个只出现一次的字符。|[JavaScript](../剑指Offer/JavaScript/src/054.字符流中第一个不重复的字符.js)| ---- |
 |065.矩阵中的路径||[JavaScript](../剑指Offer/JavaScript/src/065.矩阵中的路径.js)| :smile: |
+|0010-Regular-Expression-Matching|与剑指Offer相同，正则表达式。|[JavaScript](../LeetCode/JavaScript/src/0010-Regular-Expression-Matching.js)| Hard |
 
 
 ## *So Easy*
