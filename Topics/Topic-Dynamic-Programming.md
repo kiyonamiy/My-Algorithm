@@ -9,6 +9,7 @@
 |010.矩形覆盖|用n个2X1的小矩形无重叠地覆盖一个2Xn的大矩形，总共有多少种方法|[JavaScript](../剑指Offer/JavaScript/src/010.矩形覆盖.js)|----|
 |030.连续子数组的最大和|最大连续子序列的和|[JavaScript](../剑指Offer/JavaScript/src/030.连续子数组的最大和.js)|:pensive:|
 |0139-Word-Break|（和辉辉决战天明）判定字符串是否可以被空格拆分为一个或多个在字典中出现的单词。|[JavaScript](../LeetCode/JavaScript/src/0139-Word-Break.js)| Medium |
+|0032-Longest-Valid-Parentheses|只包含小括号的字符串，求其中最长匹配的括号子串长度。|[JavaScript](../LeetCode/JavaScript/src/0032-Longest-Valid-Parentheses.js)| Hard |
 
 ## *So Easy*
 |Problem|Code|Difficulty|
