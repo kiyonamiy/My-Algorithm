@@ -11,7 +11,7 @@
 |0003-Longest-Substring-Without-Repeating-Characters|（滑动窗口）返回最长的不含重复字符的子串|[Java](../LeetCode/Java/0003-Longest-Substring-Without-Repeating-Characters/src)|Medium|
 |0209-Minimum-Size-Subarray-Sum|（滑动窗口）求出子串和等于目标值的最小子串长度|[Java](../LeetCode/Java/0209-Minimum-Size-Subarray-Sum/src)|Medium|
 |0076-Minimum-Window-Substring|（滑动窗口）求字符串中包含所有目标字符串中所有字符的最小子串|[Java](../LeetCode/Java/0076-Minimum-Window-Substring/src)|Hard|
-
+|0042-Trapping-Rain-Water|（对撞指针）数组表示水坑，问积水的块数。|[JavaScript](../LeetCode/JavaScript/src/0042-Trapping-Rain-Water.js)|Hard|
 ## *So Easy*
 |Problem|Code|Difficulty|
 | --- | --- | --- |
