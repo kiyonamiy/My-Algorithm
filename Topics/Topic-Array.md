@@ -14,6 +14,7 @@
 |064.滑动窗口的最大值|给定一个数组和滑动窗口的大小，找出所有滑动窗口里数值的最大值。|[JavaScript](../剑指Offer/JavaScript/src/064.滑动窗口的最大值.js)| ---- |
 |0056-Merge-Intervals|合并区间|[JavaScript](../LeetCode/JavaScript/src/0056-Merge-Intervals.js)| ---- |
 |0031-Next-Permutation|找到给定数字列表的下一个字典排列|[JavaScript](../LeetCode/JavaScript/src/0031-Next-Permutation.js)| Medium |
+|0041-First-Missing-Positive|在一个无序数组中，寻找第一个缺失的正整数。|[JavaScript](../LeetCode/JavaScript/src/0041-First-Missing-Positive.js)| Hard |
 
 ## *So Easy*
 |Problem|Code|Difficulty|
