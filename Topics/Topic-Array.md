@@ -42,3 +42,4 @@
 |045.扑克牌顺子|[JavaScript](../剑指Offer/JavaScript/src/045.扑克牌顺子.js)|----|
 |050.数组中重复的数字|[JavaScript](../剑指Offer/JavaScript/src/050.数组中重复的数字.js)|----|
 |063.数据流中的中位数|[JavaScript](../剑指Offer/JavaScript/src/063.数据流中的中位数.js)|----|
+|0048-Rotate-Image|[JavaScript](../LeetCode/JavaScript/src/0048-Rotate-Image.js)| Medium |
