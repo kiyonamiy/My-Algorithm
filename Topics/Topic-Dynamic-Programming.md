@@ -23,5 +23,6 @@
 |009.变态跳台阶|[JavaScript](../剑指Offer/JavaScript/src/009.变态跳台阶.js)|----|
 |010.矩形覆盖|[JavaScript](../剑指Offer/JavaScript/src/010.矩形覆盖.js)|----|
 |0053-Maximum-Subarray|[JavaScript](../LeetCode/JavaScript/src/0053-Maximum-Subarray.js)| Easy |
+|0062-Unique-Paths|[JavaScript](../LeetCode/JavaScript/src/0062-Unique-Paths.js)| Medium |
 
 
