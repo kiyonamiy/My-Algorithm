@@ -25,5 +25,6 @@
 |0053-Maximum-Subarray|[JavaScript](../LeetCode/JavaScript/src/0053-Maximum-Subarray.js)| Easy |
 |0062-Unique-Paths|[JavaScript](../LeetCode/JavaScript/src/0062-Unique-Paths.js)| Medium |
 |0064-Minimum-Path-Sum|[JavaScript](../LeetCode/JavaScript/src/0064-Minimum-Path-Sum.js)| Medium |
+|[0120-Triangle](https://leetcode.com/problems/triangle/)|[JavaScript](../LeetCode/JavaScript/src/0120-Triangle.js)| Medium |
 
 
