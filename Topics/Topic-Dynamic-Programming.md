@@ -26,5 +26,6 @@
 |0062-Unique-Paths|[JavaScript](../LeetCode/JavaScript/src/0062-Unique-Paths.js)| Medium |
 |0064-Minimum-Path-Sum|[JavaScript](../LeetCode/JavaScript/src/0064-Minimum-Path-Sum.js)| Medium |
 |[0120-Triangle](https://leetcode.com/problems/triangle/)|[JavaScript](../LeetCode/JavaScript/src/0120-Triangle.js)| Medium |
+|[0063-Unique-Paths-II](https://leetcode.com/problems/unique-paths-ii/)|[JavaScript](../LeetCode/JavaScript/src/0063-Unique-Paths-II.js)| Medium |
 
 
