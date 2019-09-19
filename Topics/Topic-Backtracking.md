@@ -8,3 +8,4 @@
 ## *So Easy*
 |Problem|Code|Difficulty|
 | --- | --- | --- |
+|[0079-Word-Search](https://leetcode.com/problems/word-search/)|[JavaScript](../LeetCode/JavaScript/src/0079-Word-Search.js)| Medium |
