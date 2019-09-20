@@ -11,6 +11,7 @@
 |0139-Word-Break|（和辉辉决战天明）判定字符串是否可以被空格拆分为一个或多个在字典中出现的单词。|[JavaScript](../LeetCode/JavaScript/src/0139-Word-Break.js)| Medium |
 |0032-Longest-Valid-Parentheses|只包含小括号的字符串，求其中最长匹配的括号子串长度。|[JavaScript](../LeetCode/JavaScript/src/0032-Longest-Valid-Parentheses.js)| Hard |
 |[0337-House-Robber-III](https://leetcode.com/problems/house-robber-iii/)|二叉树中进行偷盗，只能隔着偷，偷相邻节点就会报警。|[JavaScript](../LeetCode/JavaScript/src/0337-House-Robber-III.js)| Medium |
+|[0096-Unique-Binary-Search-Trees](https://leetcode.com/problems/unique-binary-search-trees/)|（感觉没必要做第二次）给定一个整数 n，求以 1 ... n 为节点组成的二叉搜索树有多少种？|[JavaScript](../LeetCode/JavaScript/src/0096-Unique-Binary-Search-Trees.js)| Medium |
 
 ## *So Easy*
 |Problem|Code|Difficulty|
