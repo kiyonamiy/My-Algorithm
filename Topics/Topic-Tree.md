@@ -47,4 +47,6 @@
 |024.二叉树中和为某一值的路径|[JavaScript](../剑指Offer/JavaScript/src/024.二叉树中和为某一值的路径.js)|----|
 |038.二叉树的深度|[JavaScript](../剑指Offer/JavaScript/src/038.二叉树的深度.js)|----|
 |060.把二叉树打印成多行|[JavaScript](../剑指Offer/JavaScript/src/060.把二叉树打印成多行.js)|----|
+|0105-Construct-Binary-Tree-from-Preorder-and-Inorder-Traversal|[JavaScript](../LeetCode/JavaScript/src/0105-Construct-Binary-Tree-from-Preorder-and-Inorder-Traversal.js)|Medium|
+
 
