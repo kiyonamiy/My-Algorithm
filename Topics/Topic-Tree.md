@@ -29,6 +29,7 @@
 |061.序列化二叉树|分别用来序列化(先序遍历)和反序列化二叉树（数组构建树）|[JavaScript](../剑指Offer/JavaScript/src/061.序列化二叉树.js)|----|
 |062.二叉搜索树的第k个结点|给定一棵二叉搜索树，请找出其中的第k小的结点。|[JavaScript](../剑指Offer/JavaScript/src/062.二叉搜索树的第k个结点.js)|----|
 |[0124-Binary-Tree-Maximum-Path-Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)|在树中找一条路径（注意是路径）和最大。|[JavaScript](../LeetCode/JavaScript/src/0124-Binary-Tree-Maximum-Path-Sum.js)|Hard|
+|[0114-Flatten-Binary-Tree-to-Linked-List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)|铺平二叉树，全放右边。|[JavaScript](../LeetCode/JavaScript/src/0114-Flatten-Binary-Tree-to-Linked-List.js)|Medium|
 
 
 ## *So Easy*
