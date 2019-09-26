@@ -15,6 +15,7 @@
 |0056-Merge-Intervals|合并区间|[JavaScript](../LeetCode/JavaScript/src/0056-Merge-Intervals.js)| ---- |
 |0031-Next-Permutation|找到给定数字列表的下一个字典排列|[JavaScript](../LeetCode/JavaScript/src/0031-Next-Permutation.js)| Medium |
 |0041-First-Missing-Positive|在一个无序数组中，寻找第一个缺失的正整数。|[JavaScript](../LeetCode/JavaScript/src/0041-First-Missing-Positive.js)| Hard |
+|[0043-Multiply-Strings](https://leetcode.com/problems/multiply-strings/)|（标准）大数相乘。|[JavaScript](../LeetCode/JavaScript/src/0043-Multiply-Strings.js)| Medium |
 
 ## *So Easy*
 |Problem|Code|Difficulty|
