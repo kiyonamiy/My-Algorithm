@@ -51,5 +51,6 @@
 |038.二叉树的深度|[JavaScript](../剑指Offer/JavaScript/src/038.二叉树的深度.js)|----|
 |060.把二叉树打印成多行|[JavaScript](../剑指Offer/JavaScript/src/060.把二叉树打印成多行.js)|----|
 |0105-Construct-Binary-Tree-from-Preorder-and-Inorder-Traversal|[JavaScript](../LeetCode/JavaScript/src/0105-Construct-Binary-Tree-from-Preorder-and-Inorder-Traversal.js)|Medium|
+|0617-Merge-Two-Binary-Trees|[JavaScript](../LeetCode/JavaScript/src/0617-Merge-Two-Binary-Trees.js)|Easy|
 
 
