@@ -12,7 +12,9 @@
 |0032-Longest-Valid-Parentheses|只包含小括号的字符串，求其中最长匹配的括号子串长度。|[JavaScript](../LeetCode/JavaScript/src/0032-Longest-Valid-Parentheses.js)| Hard |
 |[0337-House-Robber-III](https://leetcode.com/problems/house-robber-iii/)|二叉树中进行偷盗，只能隔着偷，偷相邻节点就会报警。|[JavaScript](../LeetCode/JavaScript/src/0337-House-Robber-III.js)| Medium |
 |[0096-Unique-Binary-Search-Trees](https://leetcode.com/problems/unique-binary-search-trees/)|（感觉没必要做第二次）给定一个整数 n，求以 1 ... n 为节点组成的二叉搜索树有多少种？|[JavaScript](../LeetCode/JavaScript/src/0096-Unique-Binary-Search-Trees.js)| Medium |
-|[0121-Best-Time-to-Buy-and-Sell-Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|（感觉没必要做第二次）给定一个整数 n，求以 1 ... n 为节点组成的二叉搜索树有多少种？|[JavaScript](../LeetCode/JavaScript/src/0121-Best-Time-to-Buy-and-Sell-Stock.js)| Easy |
+|[0121-Best-Time-to-Buy-and-Sell-Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|股票第一题：交易次数限定为 1 。|[JavaScript](../LeetCode/JavaScript/src/0121-Best-Time-to-Buy-and-Sell-Stock.js)| Easy |
+|[0122-Best-Time-to-Buy-and-Sell-Stock-II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|股票第二题：交易次数 无限 。|[JavaScript](../LeetCode/JavaScript/src/0122-Best-Time-to-Buy-and-Sell-Stock-II.js)| Easy |
+
 
 ## *So Easy*
 |Problem|Code|Difficulty|
