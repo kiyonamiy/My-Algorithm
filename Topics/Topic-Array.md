@@ -17,6 +17,8 @@
 |0041-First-Missing-Positive|在一个无序数组中，寻找第一个缺失的正整数。|[JavaScript](../LeetCode/JavaScript/src/0041-First-Missing-Positive.js)| Hard |
 |[0043-Multiply-Strings](https://leetcode.com/problems/multiply-strings/)|（标准）大数相乘。|[JavaScript](../LeetCode/JavaScript/src/0043-Multiply-Strings.js)| Medium |
 |[0238-Product-of-Array-Except-Self](https://leetcode.com/problems/product-of-array-except-self/)|（技巧）求一个数组中除自己之外的其他数乘积。|[JavaScript](../LeetCode/JavaScript/src/0238-Product-of-Array-Except-Self.js)| Medium |
+|[0128-Longest-Consecutive-Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)|（技巧）求一个无序数组中连续数字的最大长度。|[JavaScript](../LeetCode/JavaScript/src/0128-Longest-Consecutive-Sequence.js)| Hard |
+
 
 ## *So Easy*
 |Problem|Code|Difficulty|
