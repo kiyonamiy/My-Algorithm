@@ -50,4 +50,5 @@
 |0055-Jump-Game|[JavaScript](../LeetCode/JavaScript/0055-Jump-Game.js)| Medium |
 |0581-Shortest-Unsorted-Continuous-Subarray|[JavaScript](../LeetCode/JavaScript/0581-Shortest-Unsorted-Continuous-Subarray.js)| Easy |
 |0287-Find-the-Duplicate-Number|[JavaScript](../LeetCode/JavaScript/0287-Find-the-Duplicate-Number.js)| Medium |
+|0232-Implement-Queue-using-Stacks|[JavaScript](../LeetCode/JavaScript/0232-Implement-Queue-using-Stacks.js)| Easy |
 
