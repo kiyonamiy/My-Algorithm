@@ -8,7 +8,7 @@ var duplicateZeros = (arr) => {
             for(let j = arr.length - 1; j > i; j --) {
                 arr[j] = arr[j - 1];
             }
-            arr[i] = 0;
+            arr[i ++] = 0;
         }
     }
 };
