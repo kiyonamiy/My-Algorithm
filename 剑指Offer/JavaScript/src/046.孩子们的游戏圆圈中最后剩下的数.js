@@ -34,15 +34,15 @@
  * 继续化简上式： 由 k=(m-1)%n 得 m-1=j*n+k,得 k = m-1-j*n = (m-1)%n，代入上式：
  * F(n, m) = [ F(n-1, m) + m-1-j*n + 1 ]%n = [ F(n-1, m) + m ]%n
  * 注意 [-j*n]%n = 0
- * 因此递归关系表达式为：F(n, m) = [F(n-1, m)+m]%n 
+ * 因此递归关系表达式为：F(n, m) = [F(n-1, m)+m]%n
  */
 
 function LastRemaining_Solution(n, m) {
-    if(n < 1 || m < 1) {
-        return -1;
-    }
-    if(n === 1) {
-        return 0;
-    }
-    return (LastRemaining_Solution(n - 1, m) + m) % n;
+  if (n < 1 || m < 1) {
+    return -1;
+  }
+  if (n === 1) {
+    return 0;
+  }
+  return (LastRemaining_Solution(n - 1, m) + m) % n;
 }
