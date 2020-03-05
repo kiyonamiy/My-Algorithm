@@ -1,3 +1,17 @@
+// var kthSmallest = function(root, k) {
+//   const result = [];
+//   const recursion = root => {
+//     if (root == null || result.length > k) {
+//       return;
+//     }
+//     recursion(root.left);
+//     result.push(root.val);
+//     recursion(root.right);
+//   };
+//   recursion(root);
+//   return result[k - 1];
+// };
+
 /**
  * Definition for a binary tree node.
  * function TreeNode(val) {
@@ -12,17 +26,22 @@
  */
 // 2020-03-05 腾讯面试题
 // 这 nm 不会做？？？
-// 问第 k 大，反中序遍历阿
+// 没想起来中序遍历有序
 var kthSmallest = function(root, k) {
-  const result = [];
+  // 再优化了一点，都不需要数组，只是结果会在中间出现，需要一个变量记录
+  let result = undefined;
+  let cnt = 0;
   const recursion = root => {
-    if (root == null || result.length > k) {
+    if (root == null || cnt > k) {
       return;
     }
     recursion(root.left);
-    result.push(root.val);
+    cnt++;
+    if (cnt === k) {
+      result = root.val;
+    }
     recursion(root.right);
   };
   recursion(root);
-  return result[k - 1];
+  return result;
 };
